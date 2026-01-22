@@ -5,8 +5,10 @@
 This project presents an interactive Sales Performance Dashboard built using Power BI to analyze business performance across platforms, brands, categories, cities, and time. The dashboard enables stakeholders to track KPIs, identify trends, and make data-driven decisions.
 ## 📸 Dashboard Preview
 
-https://github.com/gaurav36122/Ecommerce-Sales-Insights/blob/main/enimga_data/Screenshot%202026-01-22%20132137.png?raw=true
+![Sales Performance Dashboard](https://github.com/gaurav36122/Ecommerce-Sales-Insights/blob/main/enimga_data/Screenshot%202026-01-22%20132137.png?raw=true)
+
 ---
+
 
 
 ## 🎯 Objectives
@@ -52,6 +54,8 @@ Sales transaction data including platform, brand, category, city, sales, quantit
 - Portfolio project for Data Analyst roles
 
 ## 👤 Author
-Gaurav Singh  
-Aspiring Data Analyst | Power BI | SQL | Excel
+**Gaurav Singh**
+📧 Email: *(gaurav36122@gmail.com)*
+💼 LinkedIn: (www.linkedin.com/in/gaurav-singh-692b24273)
+
 
