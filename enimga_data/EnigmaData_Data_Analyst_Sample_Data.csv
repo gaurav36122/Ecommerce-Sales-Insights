@@ -1,0 +1,801 @@
+date,platform,city,category,product_name,brand,quantity,mrp,discount_pct,returns_qty,selling_price,gross_sales,cogs,ad_spend,return_value,net_sales,asp,gross_margin
+6/4/2024,Amazon,Bengaluru,Shampoo,Product_0,Brand_B,4,237,5,0,225.15,900.6,113.11,9,0,900.6,225.15,778.49
+27-04-2024,Flipkart,Delhi,Moisturizer,Product_1,Brand_B,11,626,20,0,500.8,5508.8,232.86,114,0,5508.8,500.8,5161.94
+3/4/2025,Zepto,Bengaluru,Lip Balm,Product_2,Brand_C,9,719,15,2,611.15,5500.35,364.62,254,1222.3,4278.05,475.34,3659.43
+27-02-2025,Amazon,Mumbai,Moisturizer,Product_3,Brand_D,11,205,15,0,174.25,1916.75,92.43,193,0,1916.75,174.25,1631.32
+15-05-2025,Instamart,Pune,Lip Balm,Product_4,Brand_D,10,581,0,0,581,5810,293.42,2,0,5810,581,5514.58
+12/5/2024,Zepto,Mumbai,Face Wash,Product_5,Brand_A,6,794,0,2,794,4764,432.21,208,1588,3176,529.33,2535.79
+20-06-2025,Blinkit,Delhi,Shampoo,Product_6,Brand_D,2,453,10,2,407.7,815.4,196.61,181,815.4,0,0,-377.61
+26-09-2024,Blinkit,Mumbai,Face Wash,Product_7,Brand_B,1,546,20,0,436.8,436.8,254.18,97,0,436.8,436.8,85.62
+16-04-2024,Blinkit,Hyderabad,Lip Balm,Product_8,Brand_D,6,382,0,0,382,2292,197.52,248,0,2292,382,1846.48
+15-11-2024,Zepto,Pune,Moisturizer,Product_9,Brand_A,4,636,20,2,508.8,2035.2,325.42,291,1017.6,1017.6,254.4,401.18
+1/4/2025,Instamart,Mumbai,Baby Care,Product_10,Brand_D,5,690,5,0,655.5,3277.5,375.22,266,0,3277.5,655.5,2636.28
+20-05-2025,Blinkit,Mumbai,Baby Care,Product_11,Brand_C,1,175,5,0,166.25,166.25,101.64,122,0,166.25,166.25,-57.39
+23-09-2024,Zepto,Bengaluru,Shampoo,Product_12,Brand_B,8,174,5,2,165.3,1322.4,105.84,203,330.6,991.8,123.98,682.96
+14-10-2024,Instamart,Pune,Baby Care,Product_13,Brand_B,8,330,10,1,297,2376,138.93,10,297,2079,259.88,1930.07
+20-04-2025,Flipkart,Mumbai,Face Wash,Product_14,Brand_D,4,513,20,1,410.4,1641.6,249.37,214,410.4,1231.2,307.8,767.83
+13-10-2025,Amazon,Delhi,Baby Care,Product_15,Brand_C,5,615,10,2,553.5,2767.5,295.48,297,1107,1660.5,332.1,1068.02
+29-03-2024,Amazon,Delhi,Moisturizer,Product_16,Brand_B,2,319,20,1,255.2,510.4,139.56,17,255.2,255.2,127.6,98.64
+21-12-2023,Amazon,Hyderabad,Baby Care,Product_17,Brand_D,7,657,10,1,591.3,4139.1,334.46,69,591.3,3547.8,506.83,3144.34
+19-12-2024,Amazon,Mumbai,Shampoo,Product_18,Brand_D,5,222,25,1,166.5,832.5,95.51,59,166.5,666,133.2,511.49
+8/11/2024,Blinkit,Bengaluru,Face Wash,Product_19,Brand_C,1,410,20,0,328,328,203.15,72,0,328,328,52.85
+9/3/2025,Instamart,Bengaluru,Moisturizer,Product_20,Brand_A,1,255,20,1,204,204,99.57,259,204,0,0,-358.57
+28-12-2023,Instamart,Mumbai,Baby Care,Product_21,Brand_A,10,619,0,0,619,6190,354.06,135,0,6190,619,5700.94
+20-06-2024,Flipkart,Bengaluru,Face Wash,Product_22,Brand_D,10,260,25,0,195,1950,115.11,134,0,1950,195,1700.89
+20-10-2023,Amazon,Delhi,Shampoo,Product_23,Brand_C,9,769,20,1,615.2,5536.8,321.13,170,615.2,4921.6,546.84,4430.47
+9/12/2025,Blinkit,Pune,Lip Balm,Product_24,Brand_C,3,430,25,2,322.5,967.5,153.2,217,645,322.5,107.5,-47.7
+31-12-2024,Flipkart,Bengaluru,Lip Balm,Product_25,Brand_D,1,765,5,1,726.75,726.75,458.41,295,726.75,0,0,-753.41
+27-11-2023,Amazon,Bengaluru,Shampoo,Product_26,Brand_C,3,172,0,2,172,516,79.2,195,344,172,57.33,-102.2
+16-09-2025,Flipkart,Hyderabad,Shampoo,Product_27,Brand_A,6,597,5,0,567.15,3402.9,325.9,106,0,3402.9,567.15,2971
+3/9/2024,Blinkit,Hyderabad,Lip Balm,Product_28,Brand_B,3,469,15,1,398.65,1195.95,226.43,216,398.65,797.3,265.77,354.87
+14-03-2024,Blinkit,Chennai,Moisturizer,Product_29,Brand_C,8,521,0,2,521,4168,300.35,2,1042,3126,390.75,2823.65
+14-04-2024,Flipkart,Delhi,Moisturizer,Product_30,Brand_D,8,186,0,2,186,1488,118.62,225,372,1116,139.5,772.38
+3/2/2024,Amazon,Delhi,Face Wash,Product_31,Brand_A,3,706,0,1,706,2118,454.56,269,706,1412,470.67,688.44
+15-11-2025,Zepto,Pune,Face Wash,Product_32,Brand_B,4,733,0,1,733,2932,362.29,98,733,2199,549.75,1738.71
+20-04-2024,Zepto,Bengaluru,Face Wash,Product_33,Brand_B,5,542,10,2,487.8,2439,288.73,243,975.6,1463.4,292.68,931.67
+30-07-2024,Zepto,Pune,Moisturizer,Product_34,Brand_B,2,156,25,2,117,234,71.28,251,234,0,0,-322.28
+21-08-2024,Amazon,Delhi,Moisturizer,Product_35,Brand_D,1,733,0,0,733,733,402.85,235,0,733,733,95.15
+2/5/2024,Zepto,Delhi,Lip Balm,Product_36,Brand_D,4,410,15,1,348.5,1394,205.56,256,348.5,1045.5,261.38,583.94
+18-01-2025,Flipkart,Pune,Lip Balm,Product_37,Brand_C,2,380,5,2,361,722,164.1,71,722,0,0,-235.1
+16-04-2025,Blinkit,Pune,Moisturizer,Product_38,Brand_C,3,385,5,0,365.75,1097.25,196.64,220,0,1097.25,365.75,680.61
+24-11-2025,Amazon,Bengaluru,Baby Care,Product_39,Brand_A,4,488,5,0,463.6,1854.4,247.64,34,0,1854.4,463.6,1572.76
+19-02-2025,Blinkit,Pune,Face Wash,Product_40,Brand_B,4,175,15,0,148.75,595,89.65,135,0,595,148.75,370.35
+28-02-2024,Instamart,Chennai,Baby Care,Product_41,Brand_B,7,642,5,1,609.9,4269.3,309.15,242,609.9,3659.4,522.77,3108.25
+8/2/2025,Instamart,Pune,Moisturizer,Product_42,Brand_B,6,744,5,2,706.8,4240.8,448.05,212,1413.6,2827.2,471.2,2167.15
+26-04-2024,Flipkart,Bengaluru,Moisturizer,Product_43,Brand_C,10,462,5,1,438.9,4389,259.47,195,438.9,3950.1,395.01,3495.63
+25-12-2023,Amazon,Hyderabad,Face Wash,Product_44,Brand_B,10,592,5,0,562.4,5624,335.72,291,0,5624,562.4,4997.28
+27-06-2024,Blinkit,Pune,Baby Care,Product_45,Brand_C,7,415,5,1,394.25,2759.75,251.1,274,394.25,2365.5,337.93,1840.4
+17-09-2025,Zepto,Hyderabad,Shampoo,Product_46,Brand_B,10,693,0,1,693,6930,383.09,166,693,6237,623.7,5687.91
+17-11-2024,Amazon,Pune,Baby Care,Product_47,Brand_B,2,355,5,1,337.25,674.5,185.8,269,337.25,337.25,168.62,-117.55
+22-10-2024,Flipkart,Bengaluru,Lip Balm,Product_48,Brand_A,4,179,20,1,143.2,572.8,64.79,287,143.2,429.6,107.4,77.81
+27-09-2024,Instamart,Pune,Baby Care,Product_49,Brand_D,4,490,0,0,490,1960,229.04,71,0,1960,490,1659.96
+9/6/2025,Zepto,Mumbai,Face Wash,Product_50,Brand_A,5,680,10,2,612,3060,372.34,210,1224,1836,367.2,1253.66
+16-11-2025,Blinkit,Mumbai,Face Wash,Product_51,Brand_A,5,474,10,1,426.6,2133,243.6,270,426.6,1706.4,341.28,1192.8
+19-05-2025,Amazon,Hyderabad,Shampoo,Product_52,Brand_C,8,510,10,1,459,3672,275.02,117,459,3213,401.62,2820.98
+19-07-2024,Flipkart,Chennai,Lip Balm,Product_53,Brand_D,8,277,25,2,207.75,1662,111.52,75,415.5,1246.5,155.81,1059.98
+19-03-2025,Zepto,Chennai,Shampoo,Product_54,Brand_D,2,684,20,1,547.2,1094.4,263.61,150,547.2,547.2,273.6,133.59
+28-10-2025,Blinkit,Pune,Moisturizer,Product_55,Brand_B,5,677,0,1,677,3385,319.63,147,677,2708,541.6,2241.37
+4/1/2025,Blinkit,Delhi,Moisturizer,Product_56,Brand_B,5,379,10,2,341.1,1705.5,217.15,171,682.2,1023.3,204.66,635.15
+26-08-2024,Amazon,Mumbai,Moisturizer,Product_57,Brand_B,3,644,15,0,547.4,1642.2,327.14,72,0,1642.2,547.4,1243.06
+8/11/2024,Amazon,Mumbai,Face Wash,Product_58,Brand_B,5,629,15,0,534.65,2673.25,255.99,29,0,2673.25,534.65,2388.26
+13-03-2024,Blinkit,Bengaluru,Moisturizer,Product_59,Brand_B,11,379,10,0,341.1,3752.1,173.09,295,0,3752.1,341.1,3284.01
+14-01-2024,Flipkart,Mumbai,Shampoo,Product_60,Brand_D,4,743,10,1,668.7,2674.8,324.24,279,668.7,2006.1,501.52,1402.86
+11/11/2025,Flipkart,Delhi,Shampoo,Product_61,Brand_D,9,667,20,2,533.6,4802.4,274.25,226,1067.2,3735.2,415.02,3234.95
+25-05-2024,Flipkart,Mumbai,Lip Balm,Product_62,Brand_C,7,482,0,1,482,3374,276.55,239,482,2892,413.14,2376.45
+5/8/2025,Zepto,Hyderabad,Face Wash,Product_63,Brand_D,1,256,20,1,204.8,204.8,109.29,197,204.8,0,0,-306.29
+4/10/2024,Amazon,Pune,Face Wash,Product_64,Brand_A,5,310,0,1,310,1550,191.26,97,310,1240,248,951.74
+6/2/2025,Flipkart,Chennai,Baby Care,Product_65,Brand_A,3,507,5,0,481.65,1444.95,222.42,10,0,1444.95,481.65,1212.53
+15-05-2025,Blinkit,Chennai,Moisturizer,Product_66,Brand_C,10,190,0,2,190,1900,86.81,31,380,1520,152,1402.19
+20-05-2024,Flipkart,Hyderabad,Baby Care,Product_67,Brand_D,3,183,5,2,173.85,521.55,105.62,222,347.7,173.85,57.95,-153.77
+6/2/2025,Instamart,Hyderabad,Face Wash,Product_68,Brand_D,2,317,10,1,285.3,570.6,176.2,111,285.3,285.3,142.65,-1.9
+2/11/2023,Blinkit,Chennai,Shampoo,Product_69,Brand_C,4,470,15,0,399.5,1598,232.08,158,0,1598,399.5,1207.92
+13-03-2025,Amazon,Delhi,Shampoo,Product_70,Brand_A,5,571,25,2,428.25,2141.25,212.43,217,856.5,1284.75,256.95,855.32
+9/12/2025,Flipkart,Mumbai,Lip Balm,Product_71,Brand_D,10,773,10,1,695.7,6957,396.47,104,695.7,6261.3,626.13,5760.83
+16-11-2023,Amazon,Hyderabad,Face Wash,Product_72,Brand_A,11,315,25,0,236.25,2598.75,110.4,41,0,2598.75,236.25,2447.35
+14-02-2024,Amazon,Bengaluru,Shampoo,Product_73,Brand_A,5,657,5,0,624.15,3120.75,346.04,90,0,3120.75,624.15,2684.71
+26-07-2024,Amazon,Hyderabad,Lip Balm,Product_74,Brand_D,3,720,5,1,684,2052,368.86,6,684,1368,456,993.14
+10/9/2025,Instamart,Mumbai,Moisturizer,Product_75,Brand_B,8,220,25,2,165,1320,76.74,157,330,990,123.75,756.26
+24-10-2025,Instamart,Mumbai,Baby Care,Product_76,Brand_C,4,722,25,0,541.5,2166,325.15,114,0,2166,541.5,1726.85
+2/12/2024,Instamart,Bengaluru,Moisturizer,Product_77,Brand_B,6,335,0,1,335,2010,212.76,7,335,1675,279.17,1455.24
+21-02-2024,Blinkit,Chennai,Baby Care,Product_78,Brand_D,1,179,25,2,134.25,134.25,63.89,100,268.5,-134.25,-134.25,-298.14
+5/1/2024,Amazon,Delhi,Shampoo,Product_79,Brand_B,2,333,0,2,333,666,207.84,292,666,0,0,-499.84
+19-11-2024,Zepto,Bengaluru,Lip Balm,Product_80,Brand_A,6,578,20,0,462.4,2774.4,214.08,203,0,2774.4,462.4,2357.32
+4/11/2023,Amazon,Bengaluru,Moisturizer,Product_81,Brand_A,4,523,10,0,470.7,1882.8,279.77,235,0,1882.8,470.7,1368.03
+6/7/2025,Instamart,Delhi,Moisturizer,Product_82,Brand_D,11,267,15,0,226.95,2496.45,140.12,137,0,2496.45,226.95,2219.33
+15-05-2025,Amazon,Hyderabad,Shampoo,Product_83,Brand_B,5,200,0,2,200,1000,110.48,21,400,600,120,468.52
+4/5/2024,Blinkit,Chennai,Lip Balm,Product_84,Brand_D,6,604,0,0,604,3624,369.72,249,0,3624,604,3005.28
+30-11-2023,Blinkit,Chennai,Baby Care,Product_85,Brand_D,11,198,25,0,148.5,1633.5,94.57,139,0,1633.5,148.5,1399.93
+6/12/2025,Amazon,Hyderabad,Lip Balm,Product_86,Brand_D,4,160,20,0,128,512,71.69,28,0,512,128,412.31
+21-03-2025,Flipkart,Mumbai,Face Wash,Product_87,Brand_A,7,568,25,1,426,2982,242.66,135,426,2556,365.14,2178.34
+27-09-2024,Zepto,Bengaluru,Moisturizer,Product_88,Brand_A,7,477,5,2,453.15,3172.05,287.53,79,906.3,2265.75,323.68,1899.22
+29-01-2024,Zepto,Hyderabad,Shampoo,Product_89,Brand_C,9,437,10,1,393.3,3539.7,199.25,65,393.3,3146.4,349.6,2882.15
+28-10-2025,Flipkart,Chennai,Shampoo,Product_90,Brand_D,1,341,20,1,272.8,272.8,162.12,235,272.8,0,0,-397.12
+10/11/2024,Zepto,Delhi,Shampoo,Product_91,Brand_B,6,629,20,1,503.2,3019.2,298.05,218,503.2,2516,419.33,1999.95
+27-06-2025,Flipkart,Hyderabad,Face Wash,Product_92,Brand_A,5,722,10,0,649.8,3249,378.89,170,0,3249,649.8,2700.11
+29-07-2025,Blinkit,Mumbai,Lip Balm,Product_93,Brand_A,7,465,20,0,372,2604,216.73,213,0,2604,372,2174.27
+11/7/2025,Amazon,Hyderabad,Moisturizer,Product_94,Brand_B,8,571,20,1,456.8,3654.4,228.14,59,456.8,3197.6,399.7,2910.46
+16-07-2024,Flipkart,Chennai,Moisturizer,Product_95,Brand_C,7,494,25,2,370.5,2593.5,233.18,298,741,1852.5,264.64,1321.32
+18-08-2024,Blinkit,Hyderabad,Face Wash,Product_96,Brand_C,4,652,20,1,521.6,2086.4,299.58,63,521.6,1564.8,391.2,1202.22
+18-11-2023,Instamart,Hyderabad,Face Wash,Product_97,Brand_D,5,684,0,1,684,3420,352.72,155,684,2736,547.2,2228.28
+30-06-2024,Amazon,Bengaluru,Shampoo,Product_98,Brand_A,9,687,0,0,687,6183,335.89,256,0,6183,687,5591.11
+12/1/2025,Amazon,Mumbai,Lip Balm,Product_99,Brand_B,4,588,5,1,558.6,2234.4,332.53,82,558.6,1675.8,418.95,1261.27
+30-01-2025,Flipkart,Mumbai,Face Wash,Product_100,Brand_B,5,502,20,1,401.6,2008,182.28,270,401.6,1606.4,321.28,1154.12
+14-11-2025,Flipkart,Chennai,Lip Balm,Product_101,Brand_C,8,585,10,1,526.5,4212,292.82,75,526.5,3685.5,460.69,3317.68
+2/5/2025,Amazon,Delhi,Moisturizer,Product_102,Brand_D,6,717,10,2,645.3,3871.8,316.89,188,1290.6,2581.2,430.2,2076.31
+21-04-2025,Amazon,Bengaluru,Moisturizer,Product_103,Brand_B,10,532,20,1,425.6,4256,269.38,81,425.6,3830.4,383.04,3480.02
+16-05-2024,Flipkart,Delhi,Moisturizer,Product_104,Brand_A,8,371,5,0,352.45,2819.6,209.13,108,0,2819.6,352.45,2502.47
+21-12-2024,Flipkart,Chennai,Baby Care,Product_105,Brand_C,6,350,5,0,332.5,1995,179.33,106,0,1995,332.5,1709.67
+22-11-2023,Zepto,Bengaluru,Shampoo,Product_106,Brand_C,9,497,20,2,397.6,3578.4,227.47,10,795.2,2783.2,309.24,2545.73
+22-02-2024,Amazon,Hyderabad,Face Wash,Product_107,Brand_A,10,169,5,0,160.55,1605.5,87.79,259,0,1605.5,160.55,1258.71
+30-11-2024,Blinkit,Pune,Shampoo,Product_108,Brand_D,11,463,20,2,370.4,4074.4,171.69,297,740.8,3333.6,303.05,2864.91
+16-01-2025,Blinkit,Mumbai,Face Wash,Product_109,Brand_D,11,566,5,2,537.7,5914.7,287.38,242,1075.4,4839.3,439.94,4309.92
+19-12-2025,Flipkart,Pune,Baby Care,Product_110,Brand_C,1,390,20,0,312,312,178.89,109,0,312,312,24.11
+23-07-2025,Instamart,Pune,Baby Care,Product_111,Brand_C,8,736,0,0,736,5888,405.77,118,0,5888,736,5364.23
+2/5/2025,Blinkit,Hyderabad,Baby Care,Product_112,Brand_B,6,524,0,1,524,3144,335.07,272,524,2620,436.67,2012.93
+22-08-2025,Instamart,Chennai,Lip Balm,Product_113,Brand_B,8,164,5,2,155.8,1246.4,81.67,7,311.6,934.8,116.85,846.13
+21-10-2024,Blinkit,Hyderabad,Baby Care,Product_114,Brand_B,7,164,25,2,123,861,68.45,99,246,615,87.86,447.55
+23-09-2025,Amazon,Delhi,Face Wash,Product_115,Brand_C,4,182,10,0,163.8,655.2,85.99,62,0,655.2,163.8,507.21
+5/8/2025,Amazon,Bengaluru,Baby Care,Product_116,Brand_B,5,289,5,2,274.55,1372.75,172.1,121,549.1,823.65,164.73,530.55
+27-11-2023,Instamart,Bengaluru,Lip Balm,Product_117,Brand_C,7,283,5,0,268.85,1881.95,170.15,20,0,1881.95,268.85,1691.8
+22-07-2025,Amazon,Pune,Lip Balm,Product_118,Brand_B,9,728,10,0,655.2,5896.8,356.91,4,0,5896.8,655.2,5535.89
+4/10/2025,Instamart,Chennai,Baby Care,Product_119,Brand_C,6,434,5,1,412.3,2473.8,201.07,104,412.3,2061.5,343.58,1756.43
+20-02-2025,Flipkart,Mumbai,Shampoo,Product_120,Brand_D,6,186,20,1,148.8,892.8,80.17,214,148.8,744,124,449.83
+28-04-2024,Blinkit,Bengaluru,Shampoo,Product_121,Brand_D,6,639,5,2,607.05,3642.3,370.93,189,1214.1,2428.2,404.7,1868.27
+22-01-2024,Instamart,Bengaluru,Baby Care,Product_122,Brand_C,6,790,0,2,790,4740,414,276,1580,3160,526.67,2470
+11/4/2024,Blinkit,Pune,Face Wash,Product_123,Brand_A,5,284,10,0,255.6,1278,161.78,77,0,1278,255.6,1039.22
+31-03-2024,Blinkit,Delhi,Moisturizer,Product_124,Brand_A,3,358,25,1,268.5,805.5,163.99,172,268.5,537,179,201.01
+12/11/2023,Blinkit,Delhi,Baby Care,Product_125,Brand_B,2,677,0,0,677,1354,322.56,195,0,1354,677,836.44
+22-07-2024,Flipkart,Hyderabad,Shampoo,Product_126,Brand_A,1,757,5,2,719.15,719.15,400.31,144,1438.3,-719.15,-719.15,-1263.46
+16-11-2025,Blinkit,Bengaluru,Moisturizer,Product_127,Brand_C,6,442,25,1,331.5,1989,206.89,108,331.5,1657.5,276.25,1342.61
+21-04-2024,Flipkart,Pune,Shampoo,Product_128,Brand_B,7,259,5,1,246.05,1722.35,156.71,135,246.05,1476.3,210.9,1184.59
+9/10/2025,Blinkit,Delhi,Shampoo,Product_129,Brand_D,4,302,0,1,302,1208,142.76,270,302,906,226.5,493.24
+21-10-2025,Blinkit,Pune,Baby Care,Product_130,Brand_C,1,216,25,2,162,162,76.22,274,324,-162,-162,-512.22
+26-10-2023,Amazon,Chennai,Face Wash,Product_131,Brand_A,9,193,15,0,164.05,1476.45,89.96,236,0,1476.45,164.05,1150.49
+21-07-2025,Zepto,Mumbai,Shampoo,Product_132,Brand_C,6,762,10,2,685.8,4114.8,379.71,100,1371.6,2743.2,457.2,2263.49
+13-02-2025,Amazon,Delhi,Face Wash,Product_133,Brand_C,8,761,15,0,646.85,5174.8,324.13,204,0,5174.8,646.85,4646.67
+30-12-2024,Amazon,Delhi,Moisturizer,Product_134,Brand_A,10,590,10,0,531,5310,334.65,119,0,5310,531,4856.35
+28-01-2024,Amazon,Mumbai,Lip Balm,Product_135,Brand_C,10,190,15,0,161.5,1615,79.9,257,0,1615,161.5,1278.1
+27-06-2025,Flipkart,Pune,Moisturizer,Product_136,Brand_B,1,343,10,2,308.7,308.7,182.18,10,617.4,-308.7,-308.7,-500.88
+22-02-2025,Flipkart,Pune,Shampoo,Product_137,Brand_B,2,608,25,1,456,912,274.03,144,456,456,228,37.97
+27-09-2024,Blinkit,Delhi,Shampoo,Product_138,Brand_A,9,261,20,0,208.8,1879.2,95.22,21,0,1879.2,208.8,1762.98
+11/2/2025,Amazon,Delhi,Face Wash,Product_139,Brand_C,1,478,20,0,382.4,382.4,175.87,218,0,382.4,382.4,-11.47
+4/6/2024,Flipkart,Pune,Baby Care,Product_140,Brand_C,1,198,25,1,148.5,148.5,84.99,133,148.5,0,0,-217.99
+26-03-2025,Instamart,Bengaluru,Moisturizer,Product_141,Brand_A,4,191,0,2,191,764,90.15,77,382,382,95.5,214.85
+19-10-2023,Blinkit,Delhi,Face Wash,Product_142,Brand_A,8,152,10,0,136.8,1094.4,66.35,185,0,1094.4,136.8,843.05
+2/12/2023,Flipkart,Pune,Moisturizer,Product_143,Brand_C,2,793,20,0,634.4,1268.8,394.27,178,0,1268.8,634.4,696.53
+25-12-2024,Blinkit,Bengaluru,Shampoo,Product_144,Brand_B,1,400,0,2,400,400,216.77,253,800,-400,-400,-869.77
+10/9/2024,Blinkit,Mumbai,Shampoo,Product_145,Brand_D,5,605,5,1,574.75,2873.75,303.16,71,574.75,2299,459.8,1924.84
+22-06-2025,Amazon,Bengaluru,Lip Balm,Product_146,Brand_C,8,473,0,2,473,3784,300.83,100,946,2838,354.75,2437.17
+13-04-2024,Instamart,Pune,Face Wash,Product_147,Brand_D,5,592,5,2,562.4,2812,302.73,289,1124.8,1687.2,337.44,1095.47
+31-08-2025,Zepto,Hyderabad,Baby Care,Product_148,Brand_C,11,181,20,0,144.8,1592.8,71.22,254,0,1592.8,144.8,1267.58
+8/12/2024,Flipkart,Delhi,Lip Balm,Product_149,Brand_C,3,568,20,2,454.4,1363.2,243.87,139,908.8,454.4,151.47,71.53
+4/6/2025,Amazon,Delhi,Lip Balm,Product_150,Brand_D,8,155,20,1,124,992,67.91,245,124,868,108.5,555.09
+5/8/2025,Instamart,Pune,Lip Balm,Product_151,Brand_D,1,634,15,0,538.9,538.9,330.57,103,0,538.9,538.9,105.33
+30-06-2024,Amazon,Chennai,Baby Care,Product_152,Brand_A,11,656,0,1,656,7216,403.78,273,656,6560,596.36,5883.22
+31-01-2025,Flipkart,Bengaluru,Baby Care,Product_153,Brand_C,10,717,25,1,537.75,5377.5,263.74,8,537.75,4839.75,483.98,4568.01
+24-05-2025,Amazon,Delhi,Baby Care,Product_154,Brand_C,1,697,25,0,522.75,522.75,280.99,81,0,522.75,522.75,160.76
+3/6/2024,Zepto,Mumbai,Lip Balm,Product_155,Brand_D,8,321,25,2,240.75,1926,153.64,141,481.5,1444.5,180.56,1149.86
+9/9/2024,Zepto,Bengaluru,Face Wash,Product_156,Brand_A,9,660,25,0,495,4455,243.27,141,0,4455,495,4070.73
+26-11-2025,Amazon,Delhi,Lip Balm,Product_157,Brand_D,8,190,15,2,161.5,1292,79.13,172,323,969,121.12,717.87
+26-05-2024,Blinkit,Pune,Baby Care,Product_158,Brand_C,8,716,10,2,644.4,5155.2,343.4,34,1288.8,3866.4,483.3,3489
+25-01-2025,Zepto,Mumbai,Shampoo,Product_159,Brand_D,9,611,20,2,488.8,4399.2,309.8,6,977.6,3421.6,380.18,3105.8
+7/1/2024,Zepto,Mumbai,Moisturizer,Product_160,Brand_D,2,564,25,1,423,846,217.32,292,423,423,211.5,-86.32
+14-08-2025,Instamart,Chennai,Shampoo,Product_161,Brand_B,7,421,25,2,315.75,2210.25,176.49,227,631.5,1578.75,225.54,1175.26
+1/2/2025,Instamart,Hyderabad,Shampoo,Product_162,Brand_A,4,354,10,0,318.6,1274.4,157.56,242,0,1274.4,318.6,874.84
+17-06-2024,Zepto,Mumbai,Lip Balm,Product_163,Brand_A,8,759,25,2,569.25,4554,272.86,10,1138.5,3415.5,426.94,3132.64
+14-04-2024,Flipkart,Pune,Face Wash,Product_164,Brand_C,3,626,20,2,500.8,1502.4,258.09,200,1001.6,500.8,166.93,42.71
+8/7/2025,Flipkart,Chennai,Shampoo,Product_165,Brand_C,6,296,25,2,222,1332,120.17,273,444,888,148,494.83
+29-12-2023,Zepto,Delhi,Moisturizer,Product_166,Brand_B,9,245,20,2,196,1764,117.58,61,392,1372,152.44,1193.42
+24-09-2025,Blinkit,Hyderabad,Shampoo,Product_167,Brand_D,7,435,0,1,435,3045,232.63,245,435,2610,372.86,2132.37
+7/1/2024,Amazon,Mumbai,Moisturizer,Product_168,Brand_C,10,398,0,2,398,3980,242.09,221,796,3184,318.4,2720.91
+11/9/2025,Amazon,Delhi,Moisturizer,Product_169,Brand_B,10,199,10,0,179.1,1791,113.57,10,0,1791,179.1,1667.43
+31-05-2024,Instamart,Chennai,Moisturizer,Product_170,Brand_D,3,411,0,2,411,1233,192.65,158,822,411,137,60.35
+24-08-2024,Zepto,Chennai,Baby Care,Product_171,Brand_C,9,520,0,2,520,4680,307.16,220,1040,3640,404.44,3112.84
+11/5/2025,Blinkit,Mumbai,Lip Balm,Product_172,Brand_B,8,324,0,0,324,2592,162.81,120,0,2592,324,2309.19
+17-11-2024,Flipkart,Bengaluru,Baby Care,Product_173,Brand_D,8,266,0,2,266,2128,139.48,145,532,1596,199.5,1311.52
+18-11-2023,Instamart,Delhi,Shampoo,Product_174,Brand_A,11,588,15,0,499.8,5497.8,234.11,105,0,5497.8,499.8,5158.69
+25-05-2025,Amazon,Pune,Shampoo,Product_175,Brand_B,5,328,10,2,295.2,1476,168.23,278,590.4,885.6,177.12,439.37
+28-07-2024,Zepto,Pune,Shampoo,Product_176,Brand_C,5,667,10,1,600.3,3001.5,372.88,280,600.3,2401.2,480.24,1748.32
+4/7/2025,Blinkit,Bengaluru,Moisturizer,Product_177,Brand_A,11,249,25,2,186.75,2054.25,96.1,198,373.5,1680.75,152.8,1386.65
+10/10/2025,Flipkart,Bengaluru,Moisturizer,Product_178,Brand_A,9,597,20,1,477.6,4298.4,281.97,282,477.6,3820.8,424.53,3256.83
+23-03-2024,Instamart,Mumbai,Face Wash,Product_179,Brand_D,5,276,0,0,276,1380,169.12,63,0,1380,276,1147.88
+28-11-2023,Instamart,Mumbai,Lip Balm,Product_180,Brand_D,4,526,20,1,420.8,1683.2,225.14,19,420.8,1262.4,315.6,1018.26
+3/7/2025,Flipkart,Chennai,Moisturizer,Product_181,Brand_B,5,710,0,2,710,3550,360.5,247,1420,2130,426,1522.5
+31-01-2025,Flipkart,Pune,Moisturizer,Product_182,Brand_A,4,731,10,1,657.9,2631.6,313.38,62,657.9,1973.7,493.42,1598.32
+15-11-2024,Instamart,Pune,Shampoo,Product_183,Brand_B,4,617,15,1,524.45,2097.8,333.22,62,524.45,1573.35,393.34,1178.13
+28-11-2023,Zepto,Bengaluru,Moisturizer,Product_184,Brand_D,8,224,20,2,179.2,1433.6,92.05,31,358.4,1075.2,134.4,952.15
+25-11-2023,Flipkart,Hyderabad,Moisturizer,Product_185,Brand_C,8,352,15,1,299.2,2393.6,174.75,135,299.2,2094.4,261.8,1784.65
+30-07-2024,Amazon,Pune,Face Wash,Product_186,Brand_C,2,338,15,2,287.3,574.6,157,74,574.6,0,0,-231
+17-01-2024,Zepto,Hyderabad,Face Wash,Product_187,Brand_B,2,501,10,1,450.9,901.8,279.04,19,450.9,450.9,225.45,152.86
+14-04-2024,Instamart,Pune,Face Wash,Product_188,Brand_A,1,416,5,1,395.2,395.2,203.77,145,395.2,0,0,-348.77
+31-05-2024,Instamart,Chennai,Shampoo,Product_189,Brand_C,11,687,0,1,687,7557,425.36,80,687,6870,624.55,6364.64
+5/7/2024,Amazon,Bengaluru,Moisturizer,Product_190,Brand_C,1,744,5,1,706.8,706.8,446.95,195,706.8,0,0,-641.95
+9/7/2024,Blinkit,Bengaluru,Lip Balm,Product_191,Brand_B,7,519,5,2,493.05,3451.35,304.87,87,986.1,2465.25,352.18,2073.38
+19-09-2024,Zepto,Pune,Lip Balm,Product_192,Brand_D,1,222,25,1,166.5,166.5,85.79,186,166.5,0,0,-271.79
+15-10-2023,Zepto,Bengaluru,Shampoo,Product_193,Brand_C,9,587,15,2,498.95,4490.55,254.59,159,997.9,3492.65,388.07,3079.06
+27-07-2024,Amazon,Chennai,Face Wash,Product_194,Brand_C,10,463,5,0,439.85,4398.5,235.54,183,0,4398.5,439.85,3979.96
+9/5/2024,Blinkit,Hyderabad,Moisturizer,Product_195,Brand_C,3,166,5,1,157.7,473.1,95.69,187,157.7,315.4,105.13,32.71
+26-04-2025,Instamart,Pune,Baby Care,Product_196,Brand_D,8,428,5,1,406.6,3252.8,235.92,248,406.6,2846.2,355.78,2362.28
+9/8/2025,Flipkart,Hyderabad,Face Wash,Product_197,Brand_C,7,684,0,2,684,4788,342.55,90,1368,3420,488.57,2987.45
+22-02-2025,Zepto,Hyderabad,Moisturizer,Product_198,Brand_A,8,428,25,1,321,2568,174.39,76,321,2247,280.88,1996.61
+23-03-2024,Blinkit,Pune,Face Wash,Product_199,Brand_B,2,599,20,2,479.2,958.4,238.42,258,958.4,0,0,-496.42
+25-06-2024,Flipkart,Pune,Face Wash,Product_200,Brand_B,4,540,20,1,432,1728,264.46,193,432,1296,324,838.54
+16-09-2024,Flipkart,Bengaluru,Baby Care,Product_201,Brand_B,10,199,5,1,189.05,1890.5,117.87,231,189.05,1701.45,170.14,1352.58
+12/5/2025,Instamart,Delhi,Moisturizer,Product_202,Brand_A,2,515,5,2,489.25,978.5,253.83,46,978.5,0,0,-299.83
+17-01-2025,Flipkart,Delhi,Baby Care,Product_203,Brand_B,3,577,20,2,461.6,1384.8,295.8,257,923.2,461.6,153.87,-91.2
+6/7/2024,Zepto,Bengaluru,Lip Balm,Product_204,Brand_C,3,688,20,1,550.4,1651.2,303.64,255,550.4,1100.8,366.93,542.16
+23-12-2024,Flipkart,Hyderabad,Moisturizer,Product_205,Brand_C,6,447,15,0,379.95,2279.7,201.13,182,0,2279.7,379.95,1896.57
+3/3/2025,Instamart,Delhi,Face Wash,Product_206,Brand_A,7,248,10,0,223.2,1562.4,102.1,94,0,1562.4,223.2,1366.3
+5/4/2025,Amazon,Delhi,Baby Care,Product_207,Brand_D,2,374,0,1,374,748,193.24,161,374,374,187,19.76
+18-03-2024,Blinkit,Mumbai,Lip Balm,Product_208,Brand_A,4,523,25,1,392.25,1569,243.59,9,392.25,1176.75,294.19,924.16
+22-10-2023,Blinkit,Chennai,Face Wash,Product_209,Brand_A,2,493,10,0,443.7,887.4,263.47,190,0,887.4,443.7,433.93
+11/11/2025,Flipkart,Hyderabad,Shampoo,Product_210,Brand_C,1,729,5,0,692.55,692.55,440.29,218,0,692.55,692.55,34.26
+6/2/2025,Zepto,Mumbai,Moisturizer,Product_211,Brand_B,3,527,5,2,500.65,1501.95,228.37,230,1001.3,500.65,166.88,42.28
+17-06-2025,Zepto,Delhi,Shampoo,Product_212,Brand_D,10,190,15,2,161.5,1615,98.2,230,323,1292,129.2,963.8
+15-12-2024,Zepto,Delhi,Lip Balm,Product_213,Brand_D,3,359,20,0,287.2,861.6,159.9,111,0,861.6,287.2,590.7
+18-11-2025,Zepto,Bengaluru,Lip Balm,Product_214,Brand_C,6,342,5,2,324.9,1949.4,207.52,260,649.8,1299.6,216.6,832.08
+7/8/2024,Amazon,Mumbai,Face Wash,Product_215,Brand_B,8,177,10,1,159.3,1274.4,95.75,92,159.3,1115.1,139.39,927.35
+26-09-2024,Blinkit,Chennai,Lip Balm,Product_216,Brand_A,11,269,10,1,242.1,2663.1,134,171,242.1,2421,220.09,2116
+16-03-2025,Zepto,Pune,Shampoo,Product_217,Brand_A,10,306,15,1,260.1,2601,151.07,27,260.1,2340.9,234.09,2162.83
+5/11/2025,Zepto,Mumbai,Face Wash,Product_218,Brand_D,3,313,0,1,313,939,201.1,14,313,626,208.67,410.9
+5/3/2024,Flipkart,Mumbai,Face Wash,Product_219,Brand_C,11,274,0,2,274,3014,128.05,11,548,2466,224.18,2326.95
+15-07-2025,Zepto,Mumbai,Baby Care,Product_220,Brand_A,5,629,25,0,471.75,2358.75,231.63,107,0,2358.75,471.75,2020.12
+11/5/2024,Zepto,Chennai,Face Wash,Product_221,Brand_A,7,423,15,0,359.55,2516.85,191.54,267,0,2516.85,359.55,2058.31
+1/6/2024,Zepto,Delhi,Baby Care,Product_222,Brand_B,10,761,5,1,722.95,7229.5,369.42,276,722.95,6506.55,650.66,5861.13
+1/9/2025,Blinkit,Pune,Baby Care,Product_223,Brand_C,4,728,15,2,618.8,2475.2,347.4,231,1237.6,1237.6,309.4,659.2
+4/1/2025,Amazon,Bengaluru,Face Wash,Product_224,Brand_D,3,377,5,2,358.15,1074.45,204.24,166,716.3,358.15,119.38,-12.09
+27-11-2023,Amazon,Delhi,Shampoo,Product_225,Brand_C,7,674,25,0,505.5,3538.5,296.04,178,0,3538.5,505.5,3064.46
+18-03-2025,Amazon,Bengaluru,Moisturizer,Product_226,Brand_C,6,402,25,2,301.5,1809,136.26,36,603,1206,201,1033.74
+27-12-2024,Zepto,Pune,Moisturizer,Product_227,Brand_B,9,436,0,0,436,3924,271.78,139,0,3924,436,3513.22
+7/4/2024,Blinkit,Hyderabad,Shampoo,Product_228,Brand_B,11,290,5,1,275.5,3030.5,134.51,36,275.5,2755,250.45,2584.49
+14-07-2025,Amazon,Bengaluru,Moisturizer,Product_229,Brand_B,2,466,25,1,349.5,699,163.41,61,349.5,349.5,174.75,125.09
+14-12-2024,Zepto,Mumbai,Lip Balm,Product_230,Brand_B,3,387,15,1,328.95,986.85,201.34,220,328.95,657.9,219.3,236.56
+14-03-2025,Amazon,Hyderabad,Moisturizer,Product_231,Brand_C,6,485,5,2,460.75,2764.5,227.81,263,921.5,1843,307.17,1352.19
+6/3/2024,Blinkit,Pune,Lip Balm,Product_232,Brand_A,2,492,25,0,369,738,186.12,212,0,738,369,339.88
+25-10-2023,Instamart,Delhi,Lip Balm,Product_233,Brand_B,9,741,5,1,703.95,6335.55,361.54,286,703.95,5631.6,625.73,4984.06
+22-03-2024,Instamart,Mumbai,Lip Balm,Product_234,Brand_A,5,742,10,0,667.8,3339,330.64,248,0,3339,667.8,2760.36
+14-04-2025,Instamart,Pune,Face Wash,Product_235,Brand_D,2,538,0,0,538,1076,315.89,0,0,1076,538,760.11
+22-12-2023,Zepto,Mumbai,Moisturizer,Product_236,Brand_A,3,750,0,1,750,2250,364.35,234,750,1500,500,901.65
+11/10/2024,Amazon,Chennai,Lip Balm,Product_237,Brand_C,11,707,15,2,600.95,6610.45,375.22,221,1201.9,5408.55,491.69,4812.33
+10/6/2025,Blinkit,Hyderabad,Baby Care,Product_238,Brand_B,2,678,5,2,644.1,1288.2,360.45,192,1288.2,0,0,-552.45
+2/12/2023,Blinkit,Pune,Moisturizer,Product_239,Brand_C,8,704,10,1,633.6,5068.8,382.91,290,633.6,4435.2,554.4,3762.29
+14-10-2024,Amazon,Bengaluru,Lip Balm,Product_240,Brand_C,5,657,25,0,492.75,2463.75,311.45,101,0,2463.75,492.75,2051.3
+15-02-2025,Amazon,Pune,Shampoo,Product_241,Brand_D,5,205,20,0,164,820,103.71,238,0,820,164,478.29
+23-12-2024,Blinkit,Delhi,Lip Balm,Product_242,Brand_A,1,436,20,1,348.8,348.8,199.55,165,348.8,0,0,-364.55
+18-10-2025,Instamart,Hyderabad,Shampoo,Product_243,Brand_A,5,162,25,2,121.5,607.5,71.85,49,243,364.5,72.9,243.65
+22-07-2025,Amazon,Delhi,Face Wash,Product_244,Brand_C,4,349,10,0,314.1,1256.4,157.46,104,0,1256.4,314.1,994.94
+14-01-2024,Amazon,Pune,Shampoo,Product_245,Brand_B,6,677,25,0,507.75,3046.5,262.67,57,0,3046.5,507.75,2726.83
+20-02-2025,Instamart,Delhi,Moisturizer,Product_246,Brand_C,10,260,10,0,234,2340,128.66,144,0,2340,234,2067.34
+3/9/2025,Amazon,Chennai,Face Wash,Product_247,Brand_A,5,646,5,2,613.7,3068.5,318.37,116,1227.4,1841.1,368.22,1406.73
+1/9/2025,Instamart,Mumbai,Face Wash,Product_248,Brand_D,4,743,5,1,705.85,2823.4,385.9,49,705.85,2117.55,529.39,1682.65
+25-04-2025,Zepto,Mumbai,Moisturizer,Product_249,Brand_A,5,274,0,2,274,1370,147.77,39,548,822,164.4,635.23
+13-07-2025,Amazon,Chennai,Moisturizer,Product_250,Brand_C,8,240,20,1,192,1536,104.61,240,192,1344,168,999.39
+17-01-2025,Zepto,Delhi,Lip Balm,Product_251,Brand_D,8,184,10,1,165.6,1324.8,87.94,57,165.6,1159.2,144.9,1014.26
+12/5/2024,Instamart,Mumbai,Lip Balm,Product_252,Brand_A,3,622,5,0,590.9,1772.7,290.06,104,0,1772.7,590.9,1378.64
+27-01-2024,Flipkart,Chennai,Baby Care,Product_253,Brand_C,7,793,15,1,674.05,4718.35,398.9,239,674.05,4044.3,577.76,3406.4
+30-12-2023,Blinkit,Hyderabad,Shampoo,Product_254,Brand_A,7,487,20,2,389.6,2727.2,192.81,160,779.2,1948,278.29,1595.19
+2/4/2025,Blinkit,Bengaluru,Baby Care,Product_255,Brand_D,3,678,20,0,542.4,1627.2,262.84,163,0,1627.2,542.4,1201.36
+20-12-2023,Amazon,Pune,Shampoo,Product_256,Brand_B,7,174,15,2,147.9,1035.3,73.31,245,295.8,739.5,105.64,421.19
+27-04-2025,Instamart,Delhi,Face Wash,Product_257,Brand_B,2,419,15,0,356.15,712.3,198.61,109,0,712.3,356.15,404.69
+15-02-2025,Flipkart,Pune,Face Wash,Product_258,Brand_A,10,726,15,2,617.1,6171,281.39,45,1234.2,4936.8,493.68,4610.41
+3/12/2024,Instamart,Delhi,Lip Balm,Product_259,Brand_A,3,792,20,1,633.6,1900.8,368.75,277,633.6,1267.2,422.4,621.45
+16-11-2023,Zepto,Mumbai,Lip Balm,Product_260,Brand_D,2,324,10,1,291.6,583.2,148.96,0,291.6,291.6,145.8,142.64
+9/9/2024,Instamart,Chennai,Shampoo,Product_261,Brand_B,6,458,25,2,343.5,2061,174.83,18,687,1374,229,1181.17
+21-12-2023,Blinkit,Bengaluru,Moisturizer,Product_262,Brand_B,5,343,15,2,291.55,1457.75,169.72,59,583.1,874.65,174.93,645.93
+31-05-2024,Flipkart,Bengaluru,Baby Care,Product_263,Brand_D,6,192,5,0,182.4,1094.4,110.46,151,0,1094.4,182.4,832.94
+12/6/2025,Blinkit,Bengaluru,Lip Balm,Product_264,Brand_A,9,581,0,0,581,5229,277.06,66,0,5229,581,4885.94
+12/7/2025,Flipkart,Mumbai,Baby Care,Product_265,Brand_D,3,581,25,1,435.75,1307.25,252.84,97,435.75,871.5,290.5,521.66
+15-11-2025,Instamart,Hyderabad,Baby Care,Product_266,Brand_B,8,354,20,2,283.2,2265.6,128.25,160,566.4,1699.2,212.4,1410.95
+9/5/2025,Blinkit,Bengaluru,Lip Balm,Product_267,Brand_A,5,152,5,0,144.4,722,93.65,241,0,722,144.4,387.35
+31-12-2023,Instamart,Hyderabad,Baby Care,Product_268,Brand_B,7,714,10,1,642.6,4498.2,316.26,43,642.6,3855.6,550.8,3496.34
+14-12-2024,Instamart,Chennai,Moisturizer,Product_269,Brand_C,6,734,15,2,623.9,3743.4,332.41,184,1247.8,2495.6,415.93,1979.19
+24-05-2025,Blinkit,Mumbai,Face Wash,Product_270,Brand_C,8,211,25,0,158.25,1266,85.24,157,0,1266,158.25,1023.76
+17-11-2024,Amazon,Mumbai,Face Wash,Product_271,Brand_B,11,630,25,0,472.5,5197.5,241.49,30,0,5197.5,472.5,4926.01
+17-10-2024,Zepto,Hyderabad,Face Wash,Product_272,Brand_A,11,662,0,2,662,7282,410.01,200,1324,5958,541.64,5347.99
+9/7/2025,Zepto,Hyderabad,Face Wash,Product_273,Brand_D,7,533,5,0,506.35,3544.45,328.5,206,0,3544.45,506.35,3009.95
+27-11-2024,Blinkit,Mumbai,Moisturizer,Product_274,Brand_B,9,794,25,0,595.5,5359.5,288.27,107,0,5359.5,595.5,4964.23
+28-10-2024,Zepto,Chennai,Lip Balm,Product_275,Brand_B,7,458,20,2,366.4,2564.8,173.45,226,732.8,1832,261.71,1432.55
+17-03-2025,Instamart,Delhi,Baby Care,Product_276,Brand_C,7,708,25,0,531,3717,264.45,78,0,3717,531,3374.55
+5/9/2025,Flipkart,Delhi,Moisturizer,Product_277,Brand_C,8,721,25,2,540.75,4326,283.21,169,1081.5,3244.5,405.56,2792.29
+11/6/2025,Instamart,Pune,Moisturizer,Product_278,Brand_B,4,561,0,2,561,2244,252.48,47,1122,1122,280.5,822.52
+2/10/2025,Amazon,Bengaluru,Lip Balm,Product_279,Brand_A,2,161,15,2,136.85,273.7,71.64,27,273.7,0,0,-98.64
+23-11-2024,Flipkart,Hyderabad,Lip Balm,Product_280,Brand_B,11,691,5,1,656.45,7220.95,370.73,166,656.45,6564.5,596.77,6027.77
+15-04-2024,Amazon,Bengaluru,Face Wash,Product_281,Brand_A,3,487,10,2,438.3,1314.9,213.48,253,876.6,438.3,146.1,-28.18
+12/4/2024,Zepto,Bengaluru,Moisturizer,Product_282,Brand_D,4,693,5,1,658.35,2633.4,332.48,190,658.35,1975.05,493.76,1452.57
+12/4/2025,Instamart,Delhi,Lip Balm,Product_283,Brand_D,10,655,15,2,556.75,5567.5,298.13,152,1113.5,4454,445.4,4003.87
+2/12/2025,Instamart,Hyderabad,Face Wash,Product_284,Brand_B,8,331,5,0,314.45,2515.6,169.4,263,0,2515.6,314.45,2083.2
+30-06-2024,Blinkit,Chennai,Shampoo,Product_285,Brand_D,7,162,5,0,153.9,1077.3,86.54,8,0,1077.3,153.9,982.76
+27-11-2023,Amazon,Hyderabad,Face Wash,Product_286,Brand_D,4,589,0,1,589,2356,280.44,118,589,1767,441.75,1368.56
+20-08-2024,Amazon,Pune,Baby Care,Product_287,Brand_D,7,343,5,0,325.85,2280.95,182.42,257,0,2280.95,325.85,1841.53
+16-07-2024,Instamart,Delhi,Face Wash,Product_288,Brand_A,11,272,10,2,244.8,2692.8,144.07,247,489.6,2203.2,200.29,1812.13
+20-12-2024,Flipkart,Delhi,Baby Care,Product_289,Brand_B,11,723,25,2,542.25,5964.75,352.42,237,1084.5,4880.25,443.66,4290.83
+14-07-2024,Blinkit,Mumbai,Baby Care,Product_290,Brand_D,1,280,5,1,266,266,146.3,62,266,0,0,-208.3
+15-04-2024,Zepto,Bengaluru,Moisturizer,Product_291,Brand_C,7,644,5,0,611.8,4282.6,392.3,191,0,4282.6,611.8,3699.3
+5/8/2025,Blinkit,Bengaluru,Baby Care,Product_292,Brand_A,5,508,25,0,381,1905,205.07,50,0,1905,381,1649.93
+12/2/2024,Instamart,Chennai,Shampoo,Product_293,Brand_A,4,177,10,2,159.3,637.2,100.16,162,318.6,318.6,79.65,56.44
+23-11-2024,Flipkart,Mumbai,Lip Balm,Product_294,Brand_D,11,331,25,2,248.25,2730.75,147.73,253,496.5,2234.25,203.11,1833.52
+1/11/2023,Flipkart,Hyderabad,Lip Balm,Product_295,Brand_D,3,312,5,2,296.4,889.2,154.96,298,592.8,296.4,98.8,-156.56
+17-06-2024,Zepto,Hyderabad,Shampoo,Product_296,Brand_A,1,585,25,0,438.75,438.75,202.39,257,0,438.75,438.75,-20.64
+19-10-2023,Instamart,Mumbai,Shampoo,Product_297,Brand_C,7,778,0,2,778,5446,396.2,118,1556,3890,555.71,3375.8
+20-07-2025,Instamart,Hyderabad,Face Wash,Product_298,Brand_A,8,434,25,1,325.5,2604,152.66,87,325.5,2278.5,284.81,2038.84
+4/2/2025,Flipkart,Mumbai,Shampoo,Product_299,Brand_D,6,516,15,1,438.6,2631.6,231.26,204,438.6,2193,365.5,1757.74
+19-03-2024,Flipkart,Hyderabad,Baby Care,Product_300,Brand_A,5,302,15,2,256.7,1283.5,154.21,284,513.4,770.1,154.02,331.89
+17-11-2024,Flipkart,Mumbai,Shampoo,Product_301,Brand_C,5,263,5,2,249.85,1249.25,139.62,106,499.7,749.55,149.91,503.93
+16-06-2024,Amazon,Bengaluru,Moisturizer,Product_302,Brand_C,7,176,5,0,167.2,1170.4,93.52,90,0,1170.4,167.2,986.88
+21-12-2023,Amazon,Mumbai,Shampoo,Product_303,Brand_C,9,772,10,1,694.8,6253.2,423.02,266,694.8,5558.4,617.6,4869.38
+8/6/2024,Zepto,Bengaluru,Lip Balm,Product_304,Brand_B,4,487,0,0,487,1948,298.39,51,0,1948,487,1598.61
+24-01-2024,Zepto,Mumbai,Shampoo,Product_305,Brand_B,7,726,5,1,689.7,4827.9,416.01,236,689.7,4138.2,591.17,3486.19
+30-09-2025,Amazon,Chennai,Face Wash,Product_306,Brand_B,5,154,20,0,123.2,616,73.64,106,0,616,123.2,436.36
+6/1/2025,Amazon,Bengaluru,Shampoo,Product_307,Brand_A,3,717,25,0,537.75,1613.25,282.92,18,0,1613.25,537.75,1312.33
+10/1/2024,Amazon,Pune,Baby Care,Product_308,Brand_B,5,211,25,1,158.25,791.25,80.64,22,158.25,633,126.6,530.36
+13-01-2024,Flipkart,Delhi,Baby Care,Product_309,Brand_C,1,461,5,0,437.95,437.95,242.53,70,0,437.95,437.95,125.42
+26-12-2024,Instamart,Bengaluru,Baby Care,Product_310,Brand_B,5,210,25,2,157.5,787.5,76.64,21,315,472.5,94.5,374.86
+30-10-2023,Flipkart,Mumbai,Shampoo,Product_311,Brand_A,9,181,5,1,171.95,1547.55,79.75,139,171.95,1375.6,152.84,1156.85
+19-02-2025,Amazon,Delhi,Shampoo,Product_312,Brand_C,7,604,10,0,543.6,3805.2,264.3,236,0,3805.2,543.6,3304.9
+28-10-2024,Amazon,Chennai,Moisturizer,Product_313,Brand_D,5,464,0,0,464,2320,271.48,102,0,2320,464,1946.52
+20-07-2025,Amazon,Chennai,Lip Balm,Product_314,Brand_B,8,154,5,0,146.3,1170.4,92.81,204,0,1170.4,146.3,873.59
+26-01-2024,Instamart,Delhi,Face Wash,Product_315,Brand_B,6,348,25,2,261,1566,151.85,281,522,1044,174,611.15
+10/6/2025,Amazon,Mumbai,Face Wash,Product_316,Brand_B,3,587,5,0,557.65,1672.95,331.22,183,0,1672.95,557.65,1158.73
+26-12-2023,Flipkart,Hyderabad,Shampoo,Product_317,Brand_C,9,436,25,2,327,2943,152.17,105,654,2289,254.33,2031.83
+15-12-2024,Zepto,Pune,Moisturizer,Product_318,Brand_C,3,178,15,1,151.3,453.9,78.75,22,151.3,302.6,100.87,201.85
+8/9/2025,Flipkart,Mumbai,Moisturizer,Product_319,Brand_D,7,644,10,0,579.6,4057.2,333.78,115,0,4057.2,579.6,3608.42
+4/8/2024,Amazon,Pune,Moisturizer,Product_320,Brand_A,9,765,15,1,650.25,5852.25,355.16,55,650.25,5202,578,4791.84
+7/5/2024,Amazon,Bengaluru,Shampoo,Product_321,Brand_B,1,666,5,0,632.7,632.7,324.15,250,0,632.7,632.7,58.55
+21-04-2024,Instamart,Delhi,Face Wash,Product_322,Brand_C,5,711,0,2,711,3555,452.67,228,1422,2133,426.6,1452.33
+3/11/2024,Flipkart,Pune,Moisturizer,Product_323,Brand_D,10,491,15,0,417.35,4173.5,207.61,138,0,4173.5,417.35,3827.89
+15-04-2025,Instamart,Mumbai,Moisturizer,Product_324,Brand_C,5,755,20,1,604,3020,353.61,241,604,2416,483.2,1821.39
+20-09-2024,Flipkart,Bengaluru,Shampoo,Product_325,Brand_A,7,659,20,1,527.2,3690.4,286.99,102,527.2,3163.2,451.89,2774.21
+11/6/2024,Zepto,Bengaluru,Face Wash,Product_326,Brand_C,9,283,0,2,283,2547,182.12,169,566,1981,220.11,1629.88
+5/7/2024,Flipkart,Pune,Lip Balm,Product_327,Brand_D,10,503,10,1,452.7,4527,203.89,28,452.7,4074.3,407.43,3842.41
+19-08-2025,Flipkart,Mumbai,Lip Balm,Product_328,Brand_D,4,188,5,1,178.6,714.4,104.27,165,178.6,535.8,133.95,266.53
+24-03-2025,Zepto,Pune,Baby Care,Product_329,Brand_C,5,304,25,2,228,1140,141.19,263,456,684,136.8,279.81
+16-08-2025,Flipkart,Mumbai,Face Wash,Product_330,Brand_B,10,466,15,0,396.1,3961,239.76,170,0,3961,396.1,3551.24
+29-04-2024,Instamart,Bengaluru,Moisturizer,Product_331,Brand_D,10,587,10,2,528.3,5283,241.07,119,1056.6,4226.4,422.64,3866.33
+24-01-2025,Instamart,Delhi,Shampoo,Product_332,Brand_B,11,649,10,1,584.1,6425.1,300.35,127,584.1,5841,531,5413.65
+13-05-2024,Blinkit,Pune,Baby Care,Product_333,Brand_B,5,274,25,2,205.5,1027.5,112.37,238,411,616.5,123.3,266.13
+11/4/2025,Flipkart,Delhi,Lip Balm,Product_334,Brand_D,5,218,20,2,174.4,872,93.07,108,348.8,523.2,104.64,322.13
+30-03-2025,Instamart,Bengaluru,Face Wash,Product_335,Brand_D,10,676,0,0,676,6760,333.84,167,0,6760,676,6259.16
+7/7/2024,Flipkart,Hyderabad,Shampoo,Product_336,Brand_A,4,730,15,2,620.5,2482,284.4,3,1241,1241,310.25,953.6
+12/8/2024,Amazon,Hyderabad,Moisturizer,Product_337,Brand_B,6,159,10,1,143.1,858.6,81.28,134,143.1,715.5,119.25,500.22
+1/3/2024,Instamart,Chennai,Shampoo,Product_338,Brand_C,10,437,20,1,349.6,3496,224.09,283,349.6,3146.4,314.64,2639.31
+19-11-2023,Amazon,Mumbai,Moisturizer,Product_339,Brand_D,8,482,10,2,433.8,3470.4,240.14,197,867.6,2602.8,325.35,2165.66
+12/1/2025,Zepto,Mumbai,Baby Care,Product_340,Brand_B,11,656,0,0,656,7216,332.45,34,0,7216,656,6849.55
+1/11/2025,Flipkart,Hyderabad,Lip Balm,Product_341,Brand_C,6,268,15,2,227.8,1366.8,110.01,267,455.6,911.2,151.87,534.19
+27-08-2025,Zepto,Mumbai,Moisturizer,Product_342,Brand_D,5,171,10,1,153.9,769.5,98.36,95,153.9,615.6,123.12,422.24
+17-11-2025,Amazon,Chennai,Baby Care,Product_343,Brand_D,11,359,5,2,341.05,3751.55,214.23,167,682.1,3069.45,279.04,2688.22
+24-09-2025,Amazon,Bengaluru,Shampoo,Product_344,Brand_D,5,423,10,1,380.7,1903.5,177.72,31,380.7,1522.8,304.56,1314.08
+27-11-2025,Flipkart,Chennai,Lip Balm,Product_345,Brand_A,6,554,15,0,470.9,2825.4,289.51,298,0,2825.4,470.9,2237.89
+22-11-2024,Flipkart,Pune,Face Wash,Product_346,Brand_D,4,392,10,0,352.8,1411.2,208.2,229,0,1411.2,352.8,974
+17-02-2024,Blinkit,Mumbai,Moisturizer,Product_347,Brand_B,5,745,10,1,670.5,3352.5,343.27,41,670.5,2682,536.4,2297.73
+15-07-2024,Flipkart,Delhi,Face Wash,Product_348,Brand_A,7,747,10,2,672.3,4706.1,374.56,157,1344.6,3361.5,480.21,2829.94
+10/8/2024,Instamart,Delhi,Shampoo,Product_349,Brand_D,5,742,15,1,630.7,3153.5,328.09,116,630.7,2522.8,504.56,2078.71
+21-12-2024,Instamart,Pune,Lip Balm,Product_350,Brand_A,2,577,25,1,432.75,865.5,226.11,55,432.75,432.75,216.38,151.64
+28-05-2024,Amazon,Pune,Shampoo,Product_351,Brand_B,10,438,20,0,350.4,3504,195.78,164,0,3504,350.4,3144.22
+11/4/2025,Instamart,Mumbai,Lip Balm,Product_352,Brand_D,2,225,20,2,180,360,110.2,56,360,0,0,-166.2
+28-11-2025,Blinkit,Delhi,Moisturizer,Product_353,Brand_A,7,445,5,0,422.75,2959.25,217.06,31,0,2959.25,422.75,2711.19
+2/10/2025,Zepto,Hyderabad,Moisturizer,Product_354,Brand_C,10,235,5,1,223.25,2232.5,105.82,173,223.25,2009.25,200.92,1730.43
+8/12/2025,Zepto,Bengaluru,Baby Care,Product_355,Brand_B,1,465,20,2,372,372,234.27,32,744,-372,-372,-638.27
+30-12-2024,Instamart,Bengaluru,Moisturizer,Product_356,Brand_A,6,636,5,2,604.2,3625.2,308.82,116,1208.4,2416.8,402.8,1991.98
+29-05-2025,Amazon,Delhi,Face Wash,Product_357,Brand_C,1,702,0,2,702,702,345.73,207,1404,-702,-702,-1254.73
+25-01-2024,Flipkart,Delhi,Shampoo,Product_358,Brand_C,4,390,0,1,390,1560,241.15,157,390,1170,292.5,771.85
+20-05-2025,Blinkit,Bengaluru,Lip Balm,Product_359,Brand_A,8,458,25,0,343.5,2748,186.17,245,0,2748,343.5,2316.83
+14-03-2024,Flipkart,Mumbai,Lip Balm,Product_360,Brand_A,10,706,20,2,564.8,5648,348.93,75,1129.6,4518.4,451.84,4094.47
+8/7/2024,Flipkart,Bengaluru,Baby Care,Product_361,Brand_D,5,306,10,2,275.4,1377,178.38,237,550.8,826.2,165.24,410.82
+2/9/2025,Flipkart,Chennai,Lip Balm,Product_362,Brand_C,10,357,5,2,339.15,3391.5,163.83,11,678.3,2713.2,271.32,2538.37
+27-05-2024,Flipkart,Chennai,Lip Balm,Product_363,Brand_C,1,598,10,2,538.2,538.2,319.7,9,1076.4,-538.2,-538.2,-866.9
+26-04-2024,Blinkit,Mumbai,Baby Care,Product_364,Brand_D,1,323,25,1,242.25,242.25,127.85,167,242.25,0,0,-294.85
+15-02-2024,Flipkart,Mumbai,Moisturizer,Product_365,Brand_A,4,644,0,0,644,2576,341.06,55,0,2576,644,2179.94
+13-06-2025,Amazon,Delhi,Moisturizer,Product_366,Brand_D,11,568,0,0,568,6248,297.14,242,0,6248,568,5708.86
+13-10-2025,Zepto,Hyderabad,Face Wash,Product_367,Brand_D,2,479,15,0,407.15,814.3,225.03,264,0,814.3,407.15,325.27
+15-09-2024,Amazon,Pune,Baby Care,Product_368,Brand_C,11,657,0,1,657,7227,393.01,284,657,6570,597.27,5892.99
+28-09-2025,Amazon,Mumbai,Moisturizer,Product_369,Brand_A,9,729,20,2,583.2,5248.8,280.77,75,1166.4,4082.4,453.6,3726.63
+20-02-2024,Zepto,Delhi,Shampoo,Product_370,Brand_C,1,584,0,0,584,584,309.81,279,0,584,584,-4.81
+21-02-2025,Amazon,Mumbai,Baby Care,Product_371,Brand_C,2,276,15,2,234.6,469.2,115.22,116,469.2,0,0,-231.22
+6/10/2025,Zepto,Chennai,Shampoo,Product_372,Brand_C,11,410,25,0,307.5,3382.5,147.13,214,0,3382.5,307.5,3021.37
+21-04-2025,Amazon,Chennai,Shampoo,Product_373,Brand_B,11,184,25,0,138,1518,63.95,124,0,1518,138,1330.05
+9/4/2024,Flipkart,Chennai,Moisturizer,Product_374,Brand_B,10,777,20,2,621.6,6216,394.18,84,1243.2,4972.8,497.28,4494.62
+25-04-2024,Flipkart,Bengaluru,Baby Care,Product_375,Brand_A,1,758,25,1,568.5,568.5,295.92,146,568.5,0,0,-441.92
+2/2/2024,Zepto,Pune,Shampoo,Product_376,Brand_C,2,153,0,0,153,306,83.87,3,0,306,153,219.13
+27-02-2024,Zepto,Delhi,Shampoo,Product_377,Brand_A,11,200,15,1,170,1870,83.55,118,170,1700,154.55,1498.45
+14-11-2025,Flipkart,Delhi,Shampoo,Product_378,Brand_D,9,630,5,2,598.5,5386.5,325.17,202,1197,4189.5,465.5,3662.33
+10/5/2025,Zepto,Chennai,Baby Care,Product_379,Brand_C,7,591,0,2,591,4137,266.51,26,1182,2955,422.14,2662.49
+6/1/2024,Flipkart,Pune,Shampoo,Product_380,Brand_C,5,184,10,2,165.6,828,92.84,187,331.2,496.8,99.36,216.96
+22-08-2024,Amazon,Mumbai,Shampoo,Product_381,Brand_D,3,278,10,1,250.2,750.6,126.13,162,250.2,500.4,166.8,212.27
+31-10-2024,Amazon,Bengaluru,Shampoo,Product_382,Brand_D,1,668,20,2,534.4,534.4,284.16,134,1068.8,-534.4,-534.4,-952.56
+14-01-2025,Amazon,Bengaluru,Shampoo,Product_383,Brand_D,8,529,0,2,529,4232,250.59,55,1058,3174,396.75,2868.41
+22-03-2024,Amazon,Chennai,Moisturizer,Product_384,Brand_A,11,392,20,0,313.6,3449.6,186.43,175,0,3449.6,313.6,3088.17
+24-06-2024,Amazon,Delhi,Shampoo,Product_385,Brand_C,7,182,0,1,182,1274,83.4,19,182,1092,156,989.6
+1/11/2025,Zepto,Chennai,Baby Care,Product_386,Brand_D,1,744,5,0,706.8,706.8,325.58,279,0,706.8,706.8,102.22
+20-09-2025,Instamart,Pune,Moisturizer,Product_387,Brand_C,8,673,0,2,673,5384,420.32,37,1346,4038,504.75,3580.68
+11/11/2023,Zepto,Pune,Lip Balm,Product_388,Brand_D,3,611,0,0,611,1833,354.68,97,0,1833,611,1381.32
+6/9/2025,Zepto,Bengaluru,Shampoo,Product_389,Brand_B,9,603,0,1,603,5427,321.94,72,603,4824,536,4430.06
+1/1/2024,Zepto,Chennai,Baby Care,Product_390,Brand_D,2,355,10,1,319.5,639,187.16,275,319.5,319.5,159.75,-142.66
+16-12-2024,Zepto,Pune,Lip Balm,Product_391,Brand_B,7,628,20,1,502.4,3516.8,275.81,298,502.4,3014.4,430.63,2440.59
+19-06-2025,Flipkart,Hyderabad,Moisturizer,Product_392,Brand_B,9,520,0,2,520,4680,265.6,189,1040,3640,404.44,3185.4
+7/9/2024,Instamart,Bengaluru,Lip Balm,Product_393,Brand_B,9,758,15,2,644.3,5798.7,306.5,154,1288.6,4510.1,501.12,4049.6
+24-11-2023,Amazon,Hyderabad,Shampoo,Product_394,Brand_D,3,611,10,1,549.9,1649.7,291.63,23,549.9,1099.8,366.6,785.17
+1/8/2024,Amazon,Delhi,Lip Balm,Product_395,Brand_C,9,231,0,0,231,2079,139.99,139,0,2079,231,1800.01
+11/12/2024,Blinkit,Pune,Moisturizer,Product_396,Brand_A,9,427,20,2,341.6,3074.4,161.72,11,683.2,2391.2,265.69,2218.48
+2/12/2025,Blinkit,Chennai,Baby Care,Product_397,Brand_C,4,277,10,1,249.3,997.2,115.29,298,249.3,747.9,186.98,334.61
+2/10/2024,Instamart,Bengaluru,Lip Balm,Product_398,Brand_C,8,153,15,1,130.05,1040.4,80.71,214,130.05,910.35,113.79,615.64
+20-08-2025,Flipkart,Pune,Baby Care,Product_399,Brand_D,6,598,0,0,598,3588,342.33,177,0,3588,598,3068.67
+22-09-2025,Flipkart,Hyderabad,Moisturizer,Product_400,Brand_D,11,440,10,0,396,4356,190.45,66,0,4356,396,4099.55
+12/12/2023,Flipkart,Hyderabad,Baby Care,Product_401,Brand_A,3,191,25,0,143.25,429.75,72.74,277,0,429.75,143.25,80.01
+13-09-2024,Blinkit,Chennai,Moisturizer,Product_402,Brand_C,9,781,10,2,702.9,6326.1,438.23,72,1405.8,4920.3,546.7,4410.07
+22-02-2024,Instamart,Mumbai,Shampoo,Product_403,Brand_A,11,522,5,1,495.9,5454.9,258.41,150,495.9,4959,450.82,4550.59
+27-03-2024,Zepto,Hyderabad,Baby Care,Product_404,Brand_D,4,185,5,1,175.75,703,108.31,36,175.75,527.25,131.81,382.94
+18-10-2024,Instamart,Delhi,Baby Care,Product_405,Brand_A,3,412,5,2,391.4,1174.2,222.32,225,782.8,391.4,130.47,-55.92
+8/1/2024,Instamart,Bengaluru,Face Wash,Product_406,Brand_C,11,181,0,2,181,1991,85.99,124,362,1629,148.09,1419.01
+30-08-2025,Amazon,Mumbai,Baby Care,Product_407,Brand_D,7,238,5,2,226.1,1582.7,113.6,207,452.2,1130.5,161.5,809.9
+28-10-2023,Instamart,Pune,Baby Care,Product_408,Brand_C,1,496,0,1,496,496,262.65,193,496,0,0,-455.65
+3/8/2025,Amazon,Hyderabad,Lip Balm,Product_409,Brand_B,9,155,10,2,139.5,1255.5,68.03,118,279,976.5,108.5,790.47
+9/4/2024,Zepto,Hyderabad,Moisturizer,Product_410,Brand_A,3,343,15,0,291.55,874.65,183.78,10,0,874.65,291.55,680.87
+12/10/2024,Amazon,Delhi,Lip Balm,Product_411,Brand_A,1,755,25,0,566.25,566.25,350.61,203,0,566.25,566.25,12.64
+2/8/2024,Amazon,Bengaluru,Shampoo,Product_412,Brand_B,9,453,20,1,362.4,3261.6,220.71,213,362.4,2899.2,322.13,2465.49
+22-08-2024,Amazon,Hyderabad,Moisturizer,Product_413,Brand_C,8,755,5,0,717.25,5738,457.85,183,0,5738,717.25,5097.15
+19-02-2025,Amazon,Bengaluru,Lip Balm,Product_414,Brand_B,10,297,15,0,252.45,2524.5,132.04,217,0,2524.5,252.45,2175.46
+21-09-2024,Instamart,Bengaluru,Baby Care,Product_415,Brand_C,9,506,15,0,430.1,3870.9,200.77,75,0,3870.9,430.1,3595.13
+17-05-2025,Blinkit,Pune,Lip Balm,Product_416,Brand_A,2,390,0,1,390,780,244.24,18,390,390,195,127.76
+11/10/2025,Blinkit,Bengaluru,Lip Balm,Product_417,Brand_A,6,421,25,0,315.75,1894.5,194.19,106,0,1894.5,315.75,1594.31
+7/7/2024,Flipkart,Chennai,Lip Balm,Product_418,Brand_A,9,647,20,2,517.6,4658.4,264.15,129,1035.2,3623.2,402.58,3230.05
+4/4/2025,Zepto,Chennai,Lip Balm,Product_419,Brand_A,5,274,15,2,232.9,1164.5,116.32,270,465.8,698.7,139.74,312.38
+26-02-2025,Flipkart,Mumbai,Moisturizer,Product_420,Brand_B,4,697,0,0,697,2788,433.26,92,0,2788,697,2262.74
+30-07-2024,Blinkit,Mumbai,Face Wash,Product_421,Brand_C,9,379,15,2,322.15,2899.35,166,217,644.3,2255.05,250.56,1872.05
+28-05-2025,Flipkart,Delhi,Moisturizer,Product_422,Brand_C,2,221,15,0,187.85,375.7,89.92,62,0,375.7,187.85,223.78
+26-04-2024,Zepto,Hyderabad,Shampoo,Product_423,Brand_D,6,422,15,2,358.7,2152.2,180.73,251,717.4,1434.8,239.13,1003.07
+13-03-2025,Blinkit,Chennai,Baby Care,Product_424,Brand_B,8,395,0,1,395,3160,234.74,259,395,2765,345.62,2271.26
+21-06-2025,Amazon,Chennai,Face Wash,Product_425,Brand_B,8,683,25,2,512.25,4098,298.57,157,1024.5,3073.5,384.19,2617.93
+26-02-2024,Blinkit,Mumbai,Lip Balm,Product_426,Brand_C,1,212,10,1,190.8,190.8,93.1,4,190.8,0,0,-97.1
+4/6/2024,Flipkart,Hyderabad,Face Wash,Product_427,Brand_C,2,370,25,2,277.5,555,133.43,117,555,0,0,-250.43
+29-06-2025,Amazon,Chennai,Face Wash,Product_428,Brand_B,6,304,20,0,243.2,1459.2,130.56,190,0,1459.2,243.2,1138.64
+28-06-2024,Blinkit,Hyderabad,Shampoo,Product_429,Brand_D,7,189,0,1,189,1323,101.08,24,189,1134,162,1008.92
+25-12-2023,Amazon,Hyderabad,Face Wash,Product_430,Brand_A,7,227,10,0,204.3,1430.1,93.69,19,0,1430.1,204.3,1317.41
+13-03-2025,Amazon,Hyderabad,Moisturizer,Product_431,Brand_B,1,733,10,2,659.7,659.7,309.2,55,1319.4,-659.7,-659.7,-1023.9
+9/3/2025,Flipkart,Delhi,Lip Balm,Product_432,Brand_A,6,372,20,1,297.6,1785.6,183.17,172,297.6,1488,248,1132.83
+5/9/2025,Zepto,Hyderabad,Baby Care,Product_433,Brand_D,5,636,20,2,508.8,2544,275.88,17,1017.6,1526.4,305.28,1233.52
+30-06-2025,Blinkit,Delhi,Face Wash,Product_434,Brand_D,5,261,0,2,261,1305,117.53,187,522,783,156.6,478.47
+29-03-2025,Blinkit,Chennai,Baby Care,Product_435,Brand_C,4,421,0,0,421,1684,254.77,121,0,1684,421,1308.23
+11/7/2025,Flipkart,Hyderabad,Face Wash,Product_436,Brand_C,10,567,0,2,567,5670,320.81,36,1134,4536,453.6,4179.19
+2/2/2025,Instamart,Bengaluru,Face Wash,Product_437,Brand_D,3,187,25,1,140.25,420.75,82.49,289,140.25,280.5,93.5,-90.99
+9/4/2025,Blinkit,Hyderabad,Baby Care,Product_438,Brand_D,1,499,10,2,449.1,449.1,269.63,185,898.2,-449.1,-449.1,-903.73
+16-10-2024,Flipkart,Chennai,Moisturizer,Product_439,Brand_A,1,278,10,2,250.2,250.2,119.57,247,500.4,-250.2,-250.2,-616.77
+27-04-2025,Instamart,Delhi,Baby Care,Product_440,Brand_D,9,590,15,1,501.5,4513.5,272.71,14,501.5,4012,445.78,3725.29
+16-10-2024,Amazon,Hyderabad,Face Wash,Product_441,Brand_C,10,712,0,2,712,7120,353.67,51,1424,5696,569.6,5291.33
+4/6/2024,Instamart,Hyderabad,Lip Balm,Product_442,Brand_C,4,537,10,1,483.3,1933.2,263.41,61,483.3,1449.9,362.48,1125.49
+12/3/2024,Blinkit,Delhi,Shampoo,Product_443,Brand_A,10,270,5,2,256.5,2565,124.15,186,513,2052,205.2,1741.85
+14-08-2025,Amazon,Hyderabad,Lip Balm,Product_444,Brand_D,3,573,10,1,515.7,1547.1,324.13,171,515.7,1031.4,343.8,536.27
+5/2/2024,Instamart,Chennai,Baby Care,Product_445,Brand_D,9,526,25,1,394.5,3550.5,243.13,14,394.5,3156,350.67,2898.87
+24-03-2024,Flipkart,Bengaluru,Baby Care,Product_446,Brand_B,7,373,0,1,373,2611,212.02,68,373,2238,319.71,1957.98
+6/1/2024,Instamart,Mumbai,Moisturizer,Product_447,Brand_B,9,777,15,1,660.45,5944.05,371.06,85,660.45,5283.6,587.07,4827.54
+1/1/2024,Flipkart,Mumbai,Moisturizer,Product_448,Brand_A,1,255,5,2,242.25,242.25,155.27,140,484.5,-242.25,-242.25,-537.52
+21-11-2024,Amazon,Pune,Lip Balm,Product_449,Brand_B,5,363,15,2,308.55,1542.75,180.55,105,617.1,925.65,185.13,640.1
+18-11-2024,Amazon,Hyderabad,Lip Balm,Product_450,Brand_D,5,745,20,1,596,2980,318.35,269,596,2384,476.8,1796.65
+11/11/2024,Instamart,Pune,Lip Balm,Product_451,Brand_C,8,714,25,0,535.5,4284,274.72,130,0,4284,535.5,3879.28
+14-10-2023,Zepto,Bengaluru,Face Wash,Product_452,Brand_D,10,654,20,1,523.2,5232,302.04,6,523.2,4708.8,470.88,4400.76
+27-05-2024,Blinkit,Pune,Lip Balm,Product_453,Brand_D,6,420,0,1,420,2520,246.33,85,420,2100,350,1768.67
+19-08-2025,Zepto,Chennai,Moisturizer,Product_454,Brand_B,8,163,15,1,138.55,1108.4,85.13,54,138.55,969.85,121.23,830.72
+10/2/2024,Blinkit,Hyderabad,Face Wash,Product_455,Brand_C,9,269,0,0,269,2421,172.88,13,0,2421,269,2235.12
+9/2/2024,Amazon,Chennai,Moisturizer,Product_456,Brand_B,7,288,10,1,259.2,1814.4,152.01,72,259.2,1555.2,222.17,1331.19
+18-03-2024,Blinkit,Mumbai,Baby Care,Product_457,Brand_A,7,207,0,2,207,1449,129.69,99,414,1035,147.86,806.31
+12/12/2024,Amazon,Pune,Moisturizer,Product_458,Brand_C,10,497,25,0,372.75,3727.5,200.58,184,0,3727.5,372.75,3342.92
+4/4/2024,Zepto,Delhi,Shampoo,Product_459,Brand_D,4,517,5,1,491.15,1964.6,295.66,133,491.15,1473.45,368.36,1044.79
+31-12-2024,Zepto,Chennai,Face Wash,Product_460,Brand_C,4,497,20,0,397.6,1590.4,186.24,104,0,1590.4,397.6,1300.16
+15-05-2024,Amazon,Delhi,Face Wash,Product_461,Brand_C,1,408,25,2,306,306,187.61,43,612,-306,-306,-536.61
+9/1/2024,Blinkit,Pune,Lip Balm,Product_462,Brand_A,11,192,0,1,192,2112,90.67,265,192,1920,174.55,1564.33
+1/2/2025,Flipkart,Delhi,Moisturizer,Product_463,Brand_D,7,429,0,1,429,3003,206.03,7,429,2574,367.71,2360.97
+13-06-2024,Blinkit,Mumbai,Face Wash,Product_464,Brand_D,5,269,5,1,255.55,1277.75,144.53,245,255.55,1022.2,204.44,632.67
+24-10-2024,Instamart,Bengaluru,Face Wash,Product_465,Brand_A,3,375,20,2,300,900,164.5,103,600,300,100,32.5
+25-10-2023,Amazon,Bengaluru,Face Wash,Product_466,Brand_B,1,258,20,2,206.4,206.4,119.03,74,412.8,-206.4,-206.4,-399.43
+23-11-2024,Flipkart,Hyderabad,Baby Care,Product_467,Brand_C,4,486,10,0,437.4,1749.6,208.88,180,0,1749.6,437.4,1360.72
+15-01-2024,Amazon,Hyderabad,Face Wash,Product_468,Brand_B,6,570,5,1,541.5,3249,327.54,178,541.5,2707.5,451.25,2201.96
+7/10/2024,Zepto,Chennai,Face Wash,Product_469,Brand_C,4,786,10,0,707.4,2829.6,375.99,102,0,2829.6,707.4,2351.61
+19-08-2024,Zepto,Chennai,Moisturizer,Product_470,Brand_B,2,278,20,2,222.4,444.8,134.57,169,444.8,0,0,-303.57
+26-08-2025,Amazon,Pune,Baby Care,Product_471,Brand_D,10,464,25,1,348,3480,223.03,60,348,3132,313.2,2848.97
+14-11-2025,Zepto,Chennai,Moisturizer,Product_472,Brand_B,10,595,0,0,595,5950,284.78,212,0,5950,595,5453.22
+9/11/2024,Amazon,Chennai,Lip Balm,Product_473,Brand_D,1,406,15,0,345.1,345.1,169.66,273,0,345.1,345.1,-97.56
+22-08-2025,Blinkit,Hyderabad,Shampoo,Product_474,Brand_D,4,754,5,2,716.3,2865.2,446.51,40,1432.6,1432.6,358.15,946.09
+12/1/2024,Instamart,Chennai,Moisturizer,Product_475,Brand_A,8,705,0,2,705,5640,358.1,227,1410,4230,528.75,3644.9
+7/3/2024,Flipkart,Hyderabad,Moisturizer,Product_476,Brand_C,11,493,25,0,369.75,4067.25,191.35,42,0,4067.25,369.75,3833.9
+6/3/2024,Blinkit,Chennai,Shampoo,Product_477,Brand_A,5,471,5,0,447.45,2237.25,235.96,229,0,2237.25,447.45,1772.29
+19-05-2025,Zepto,Mumbai,Moisturizer,Product_478,Brand_A,7,712,20,0,569.6,3987.2,265.04,268,0,3987.2,569.6,3454.16
+5/7/2025,Instamart,Chennai,Moisturizer,Product_479,Brand_C,8,263,5,2,249.85,1998.8,127.28,146,499.7,1499.1,187.39,1225.82
+9/12/2023,Blinkit,Chennai,Face Wash,Product_480,Brand_A,9,571,20,2,456.8,4111.2,221.95,199,913.6,3197.6,355.29,2776.65
+15-06-2024,Amazon,Hyderabad,Face Wash,Product_481,Brand_C,4,307,20,2,245.6,982.4,150.83,5,491.2,491.2,122.8,335.37
+24-11-2025,Flipkart,Pune,Lip Balm,Product_482,Brand_B,6,183,10,1,164.7,988.2,94.37,108,164.7,823.5,137.25,621.13
+18-11-2025,Amazon,Hyderabad,Lip Balm,Product_483,Brand_D,6,520,20,1,416,2496,193.63,245,416,2080,346.67,1641.37
+5/4/2024,Amazon,Hyderabad,Moisturizer,Product_484,Brand_C,1,580,15,1,493,493,307.59,153,493,0,0,-460.59
+20-12-2023,Blinkit,Delhi,Baby Care,Product_485,Brand_A,1,276,0,2,276,276,159.15,91,552,-276,-276,-526.15
+10/6/2024,Instamart,Bengaluru,Face Wash,Product_486,Brand_A,2,499,5,0,474.05,948.1,241.66,236,0,948.1,474.05,470.44
+10/10/2025,Flipkart,Hyderabad,Lip Balm,Product_487,Brand_B,5,666,20,1,532.8,2664,292.7,293,532.8,2131.2,426.24,1545.5
+18-12-2025,Blinkit,Pune,Shampoo,Product_488,Brand_C,11,775,15,2,658.75,7246.25,418.42,260,1317.5,5928.75,538.98,5250.33
+28-08-2025,Amazon,Mumbai,Face Wash,Product_489,Brand_D,4,737,15,0,626.45,2505.8,286.59,172,0,2505.8,626.45,2047.21
+1/8/2024,Flipkart,Chennai,Moisturizer,Product_490,Brand_D,8,797,15,2,677.45,5419.6,337.37,28,1354.9,4064.7,508.09,3699.33
+14-11-2023,Zepto,Bengaluru,Shampoo,Product_491,Brand_D,8,333,25,2,249.75,1998,116.23,191,499.5,1498.5,187.31,1191.27
+13-08-2024,Flipkart,Bengaluru,Face Wash,Product_492,Brand_B,2,663,25,0,497.25,994.5,316.4,76,0,994.5,497.25,602.1
+18-04-2025,Instamart,Mumbai,Lip Balm,Product_493,Brand_C,5,279,15,1,237.15,1185.75,121.34,32,237.15,948.6,189.72,795.26
+9/7/2025,Amazon,Bengaluru,Moisturizer,Product_494,Brand_C,8,565,20,2,452,3616,280.12,287,904,2712,339,2144.88
+18-04-2024,Blinkit,Delhi,Baby Care,Product_495,Brand_C,6,708,5,0,672.6,4035.6,352.57,84,0,4035.6,672.6,3599.03
+25-06-2024,Blinkit,Mumbai,Shampoo,Product_496,Brand_B,7,626,20,1,500.8,3505.6,305.63,234,500.8,3004.8,429.26,2465.17
+29-08-2024,Instamart,Mumbai,Lip Balm,Product_497,Brand_A,11,609,10,0,548.1,6029.1,291.69,216,0,6029.1,548.1,5521.41
+11/11/2023,Flipkart,Chennai,Moisturizer,Product_498,Brand_A,1,334,25,1,250.5,250.5,134.3,51,250.5,0,0,-185.3
+21-10-2023,Zepto,Mumbai,Lip Balm,Product_499,Brand_D,5,767,0,2,767,3835,416.61,234,1534,2301,460.2,1650.39
+21-04-2025,Instamart,Mumbai,Shampoo,Product_500,Brand_D,8,715,0,1,715,5720,400.8,173,715,5005,625.62,4431.2
+24-09-2024,Amazon,Pune,Baby Care,Product_501,Brand_C,2,449,15,0,381.65,763.3,208.36,137,0,763.3,381.65,417.94
+24-02-2024,Zepto,Chennai,Shampoo,Product_502,Brand_B,6,790,10,1,711,4266,356.83,54,711,3555,592.5,3144.17
+10/9/2024,Amazon,Bengaluru,Shampoo,Product_503,Brand_B,2,594,25,1,445.5,891,208.04,131,445.5,445.5,222.75,106.46
+14-05-2024,Zepto,Chennai,Moisturizer,Product_504,Brand_D,4,313,0,2,313,1252,144.72,105,626,626,156.5,376.28
+6/6/2025,Instamart,Delhi,Face Wash,Product_505,Brand_A,5,376,15,1,319.6,1598,185.52,177,319.6,1278.4,255.68,915.88
+5/9/2025,Zepto,Pune,Shampoo,Product_506,Brand_C,5,376,5,0,357.2,1786,224.46,184,0,1786,357.2,1377.54
+11/1/2024,Instamart,Pune,Face Wash,Product_507,Brand_A,1,327,0,1,327,327,205.03,172,327,0,0,-377.03
+26-10-2024,Amazon,Chennai,Moisturizer,Product_508,Brand_A,8,235,0,2,235,1880,133.73,123,470,1410,176.25,1153.27
+4/11/2023,Amazon,Chennai,Baby Care,Product_509,Brand_D,5,634,25,2,475.5,2377.5,307.82,10,951,1426.5,285.3,1108.68
+19-06-2025,Blinkit,Chennai,Baby Care,Product_510,Brand_D,10,194,20,0,155.2,1552,87.45,22,0,1552,155.2,1442.55
+29-01-2024,Instamart,Mumbai,Moisturizer,Product_511,Brand_A,2,511,0,1,511,1022,293.26,223,511,511,255.5,-5.26
+24-10-2024,Blinkit,Mumbai,Lip Balm,Product_512,Brand_C,6,733,25,2,549.75,3298.5,349.69,149,1099.5,2199,366.5,1700.31
+27-03-2024,Blinkit,Bengaluru,Baby Care,Product_513,Brand_B,2,257,15,2,218.45,436.9,125.92,53,436.9,0,0,-178.92
+15-12-2025,Zepto,Hyderabad,Baby Care,Product_514,Brand_B,7,506,20,1,404.8,2833.6,198.09,270,404.8,2428.8,346.97,1960.71
+30-10-2024,Flipkart,Pune,Lip Balm,Product_515,Brand_C,2,169,5,0,160.55,321.1,92.73,256,0,321.1,160.55,-27.63
+16-05-2025,Zepto,Delhi,Baby Care,Product_516,Brand_B,1,748,10,1,673.2,673.2,344.87,153,673.2,0,0,-497.87
+30-11-2024,Flipkart,Pune,Moisturizer,Product_517,Brand_A,4,599,15,1,509.15,2036.6,308.31,198,509.15,1527.45,381.86,1021.14
+12/3/2024,Amazon,Mumbai,Moisturizer,Product_518,Brand_B,1,189,5,0,179.55,179.55,100.25,173,0,179.55,179.55,-93.7
+15-11-2023,Blinkit,Chennai,Lip Balm,Product_519,Brand_C,9,465,25,1,348.75,3138.75,222.29,1,348.75,2790,310,2566.71
+26-01-2025,Amazon,Mumbai,Face Wash,Product_520,Brand_D,5,413,20,2,330.4,1652,196.63,97,660.8,991.2,198.24,697.57
+21-10-2025,Amazon,Hyderabad,Lip Balm,Product_521,Brand_C,10,752,20,1,601.6,6016,347.66,45,601.6,5414.4,541.44,5021.74
+24-10-2023,Blinkit,Delhi,Moisturizer,Product_522,Brand_B,11,561,0,1,561,6171,268.73,260,561,5610,510,5081.27
+11/9/2024,Amazon,Pune,Baby Care,Product_523,Brand_A,9,710,15,0,603.5,5431.5,390.62,214,0,5431.5,603.5,4826.88
+19-08-2025,Zepto,Pune,Lip Balm,Product_524,Brand_B,3,310,20,1,248,744,120.75,197,248,496,165.33,178.25
+16-04-2025,Instamart,Hyderabad,Shampoo,Product_525,Brand_C,1,393,15,1,334.05,334.05,203.55,147,334.05,0,0,-350.55
+7/10/2024,Blinkit,Mumbai,Face Wash,Product_526,Brand_A,7,737,25,1,552.75,3869.25,343.72,200,552.75,3316.5,473.79,2772.78
+29-06-2025,Blinkit,Bengaluru,Face Wash,Product_527,Brand_C,8,638,5,0,606.1,4848.8,299.91,102,0,4848.8,606.1,4446.89
+20-01-2025,Zepto,Delhi,Baby Care,Product_528,Brand_D,9,564,0,0,564,5076,262.57,187,0,5076,564,4626.43
+9/3/2025,Zepto,Delhi,Baby Care,Product_529,Brand_C,2,444,10,2,399.6,799.2,185.65,83,799.2,0,0,-268.65
+4/1/2024,Flipkart,Hyderabad,Lip Balm,Product_530,Brand_B,6,615,15,0,522.75,3136.5,255.6,21,0,3136.5,522.75,2859.9
+26-11-2025,Instamart,Delhi,Baby Care,Product_531,Brand_D,7,452,20,2,361.6,2531.2,175.16,163,723.2,1808,258.29,1469.84
+28-06-2024,Amazon,Chennai,Moisturizer,Product_532,Brand_D,8,451,15,2,383.35,3066.8,183.93,117,766.7,2300.1,287.51,1999.17
+28-10-2023,Flipkart,Mumbai,Baby Care,Product_533,Brand_C,6,364,5,0,345.8,2074.8,219.88,42,0,2074.8,345.8,1812.92
+30-08-2025,Flipkart,Hyderabad,Face Wash,Product_534,Brand_D,9,537,20,0,429.6,3866.4,199,248,0,3866.4,429.6,3419.4
+31-08-2024,Zepto,Mumbai,Baby Care,Product_535,Brand_B,2,578,15,1,491.3,982.6,251.53,221,491.3,491.3,245.65,18.77
+27-07-2024,Zepto,Delhi,Baby Care,Product_536,Brand_D,1,312,15,0,265.2,265.2,128.24,177,0,265.2,265.2,-40.04
+30-12-2023,Zepto,Mumbai,Lip Balm,Product_537,Brand_C,8,216,5,0,205.2,1641.6,124.92,59,0,1641.6,205.2,1457.68
+1/2/2025,Instamart,Hyderabad,Face Wash,Product_538,Brand_D,2,579,20,0,463.2,926.4,215.3,148,0,926.4,463.2,563.1
+31-03-2024,Amazon,Hyderabad,Lip Balm,Product_539,Brand_B,1,680,10,0,612,612,338.39,71,0,612,612,202.61
+16-03-2024,Amazon,Mumbai,Moisturizer,Product_540,Brand_A,1,322,10,2,289.8,289.8,163.63,31,579.6,-289.8,-289.8,-484.43
+20-06-2025,Instamart,Chennai,Face Wash,Product_541,Brand_A,1,676,5,2,642.2,642.2,330.1,160,1284.4,-642.2,-642.2,-1132.3
+8/12/2025,Zepto,Hyderabad,Shampoo,Product_542,Brand_B,11,478,15,1,406.3,4469.3,207.44,234,406.3,4063,369.36,3621.56
+18-09-2024,Flipkart,Pune,Moisturizer,Product_543,Brand_A,4,294,10,0,264.6,1058.4,162.39,135,0,1058.4,264.6,761.01
+1/4/2025,Flipkart,Bengaluru,Moisturizer,Product_544,Brand_B,2,693,25,2,519.75,1039.5,299.97,49,1039.5,0,0,-348.97
+8/9/2025,Blinkit,Hyderabad,Lip Balm,Product_545,Brand_B,9,182,20,1,145.6,1310.4,91.94,19,145.6,1164.8,129.42,1053.86
+26-09-2024,Flipkart,Pune,Face Wash,Product_546,Brand_D,2,482,5,1,457.9,915.8,206.07,242,457.9,457.9,228.95,9.83
+2/3/2025,Blinkit,Delhi,Lip Balm,Product_547,Brand_D,9,169,5,2,160.55,1444.95,73.78,223,321.1,1123.85,124.87,827.07
+2/10/2025,Blinkit,Pune,Shampoo,Product_548,Brand_C,6,213,25,2,159.75,958.5,73.59,255,319.5,639,106.5,310.41
+21-11-2025,Blinkit,Delhi,Moisturizer,Product_549,Brand_A,6,229,25,1,171.75,1030.5,107.2,110,171.75,858.75,143.12,641.55
+14-12-2025,Zepto,Delhi,Face Wash,Product_550,Brand_A,9,338,5,1,321.1,2889.9,187.47,199,321.1,2568.8,285.42,2182.33
+20-06-2025,Instamart,Mumbai,Moisturizer,Product_551,Brand_B,5,715,5,1,679.25,3396.25,348.44,240,679.25,2717,543.4,2128.56
+20-04-2025,Zepto,Mumbai,Lip Balm,Product_552,Brand_D,5,343,15,0,291.55,1457.75,159.78,248,0,1457.75,291.55,1049.97
+30-11-2023,Zepto,Delhi,Shampoo,Product_553,Brand_C,3,519,20,1,415.2,1245.6,214.03,173,415.2,830.4,276.8,443.37
+14-12-2024,Flipkart,Pune,Baby Care,Product_554,Brand_B,1,662,20,1,529.6,529.6,261.85,256,529.6,0,0,-517.85
+1/6/2025,Zepto,Hyderabad,Lip Balm,Product_555,Brand_A,1,563,20,2,450.4,450.4,261.87,39,900.8,-450.4,-450.4,-751.27
+1/5/2024,Amazon,Bengaluru,Shampoo,Product_556,Brand_A,5,547,5,1,519.65,2598.25,275.86,155,519.65,2078.6,415.72,1647.74
+21-09-2024,Flipkart,Hyderabad,Lip Balm,Product_557,Brand_B,5,543,15,2,461.55,2307.75,274.93,24,923.1,1384.65,276.93,1085.72
+30-08-2025,Flipkart,Mumbai,Baby Care,Product_558,Brand_C,3,231,10,0,207.9,623.7,111.46,89,0,623.7,207.9,423.24
+29-10-2024,Blinkit,Bengaluru,Baby Care,Product_559,Brand_C,3,624,20,0,499.2,1497.6,308.23,74,0,1497.6,499.2,1115.37
+5/4/2025,Instamart,Mumbai,Baby Care,Product_560,Brand_A,6,527,5,0,500.65,3003.9,321.29,89,0,3003.9,500.65,2593.61
+31-07-2024,Flipkart,Bengaluru,Moisturizer,Product_561,Brand_D,8,183,0,0,183,1464,113.97,180,0,1464,183,1170.03
+7/5/2024,Amazon,Bengaluru,Shampoo,Product_562,Brand_D,7,724,10,0,651.6,4561.2,348.73,139,0,4561.2,651.6,4073.47
+12/3/2024,Flipkart,Chennai,Lip Balm,Product_563,Brand_A,1,532,15,2,452.2,452.2,288.96,255,904.4,-452.2,-452.2,-996.16
+3/7/2025,Blinkit,Pune,Shampoo,Product_564,Brand_C,7,353,0,2,353,2471,195.51,16,706,1765,252.14,1553.49
+6/6/2025,Instamart,Pune,Lip Balm,Product_565,Brand_C,11,388,10,1,349.2,3841.2,200.69,273,349.2,3492,317.45,3018.31
+8/2/2024,Amazon,Chennai,Moisturizer,Product_566,Brand_D,7,489,15,1,415.65,2909.55,191.75,244,415.65,2493.9,356.27,2058.15
+14-09-2025,Amazon,Pune,Face Wash,Product_567,Brand_D,1,259,10,1,233.1,233.1,147.02,8,233.1,0,0,-155.02
+15-12-2025,Instamart,Delhi,Baby Care,Product_568,Brand_D,5,182,5,1,172.9,864.5,101.98,291,172.9,691.6,138.32,298.62
+8/4/2025,Flipkart,Mumbai,Face Wash,Product_569,Brand_B,11,699,25,0,524.25,5766.75,318.46,292,0,5766.75,524.25,5156.29
+28-01-2024,Amazon,Hyderabad,Shampoo,Product_570,Brand_A,8,491,0,0,491,3928,229.32,30,0,3928,491,3668.68
+24-05-2025,Flipkart,Hyderabad,Lip Balm,Product_571,Brand_D,1,229,0,0,229,229,109.35,4,0,229,229,115.65
+28-12-2024,Amazon,Mumbai,Lip Balm,Product_572,Brand_D,1,740,5,0,703,703,326.19,114,0,703,703,262.81
+13-11-2025,Amazon,Pune,Shampoo,Product_573,Brand_D,8,772,0,0,772,6176,459.76,195,0,6176,772,5521.24
+18-06-2024,Blinkit,Hyderabad,Moisturizer,Product_574,Brand_B,7,770,10,1,693,4851,430.61,159,693,4158,594,3568.39
+30-12-2024,Blinkit,Pune,Baby Care,Product_575,Brand_C,3,756,20,0,604.8,1814.4,349.41,14,0,1814.4,604.8,1450.99
+5/6/2025,Blinkit,Mumbai,Shampoo,Product_576,Brand_C,3,428,20,1,342.4,1027.2,201.74,123,342.4,684.8,228.27,360.06
+20-09-2024,Zepto,Delhi,Moisturizer,Product_577,Brand_C,8,243,15,2,206.55,1652.4,127.3,24,413.1,1239.3,154.91,1088
+17-03-2024,Zepto,Hyderabad,Shampoo,Product_578,Brand_D,5,318,20,0,254.4,1272,161.82,296,0,1272,254.4,814.18
+3/11/2024,Instamart,Mumbai,Baby Care,Product_579,Brand_D,11,573,15,0,487.05,5357.55,258.34,70,0,5357.55,487.05,5029.21
+19-11-2024,Zepto,Chennai,Lip Balm,Product_580,Brand_B,5,216,10,0,194.4,972,106.37,18,0,972,194.4,847.63
+10/2/2025,Blinkit,Bengaluru,Lip Balm,Product_581,Brand_C,5,453,10,1,407.7,2038.5,192.68,204,407.7,1630.8,326.16,1234.12
+26-03-2025,Amazon,Delhi,Baby Care,Product_582,Brand_B,9,345,25,1,258.75,2328.75,139.77,270,258.75,2070,230,1660.23
+5/12/2023,Instamart,Pune,Lip Balm,Product_583,Brand_A,8,615,15,1,522.75,4182,272.35,13,522.75,3659.25,457.41,3373.9
+21-01-2025,Flipkart,Chennai,Moisturizer,Product_584,Brand_B,8,593,20,1,474.4,3795.2,225.39,174,474.4,3320.8,415.1,2921.41
+13-03-2025,Amazon,Bengaluru,Moisturizer,Product_585,Brand_C,11,181,0,0,181,1991,86.3,233,0,1991,181,1671.7
+6/6/2025,Flipkart,Chennai,Face Wash,Product_586,Brand_D,8,268,0,2,268,2144,131.47,158,536,1608,201,1318.53
+22-05-2024,Flipkart,Mumbai,Moisturizer,Product_587,Brand_D,7,229,5,1,217.55,1522.85,118.12,226,217.55,1305.3,186.47,961.18
+18-06-2025,Flipkart,Chennai,Baby Care,Product_588,Brand_D,9,435,0,2,435,3915,254.99,299,870,3045,338.33,2491.01
+18-11-2025,Zepto,Chennai,Face Wash,Product_589,Brand_D,8,678,15,0,576.3,4610.4,291.16,223,0,4610.4,576.3,4096.24
+24-05-2024,Amazon,Bengaluru,Lip Balm,Product_590,Brand_A,8,160,20,1,128,1024,78.51,90,128,896,112,727.49
+6/5/2025,Zepto,Delhi,Face Wash,Product_591,Brand_C,2,458,10,2,412.2,824.4,238.68,141,824.4,0,0,-379.68
+12/3/2025,Instamart,Hyderabad,Shampoo,Product_592,Brand_B,3,737,0,0,737,2211,428.09,183,0,2211,737,1599.91
+9/1/2025,Instamart,Hyderabad,Shampoo,Product_593,Brand_D,7,420,20,0,336,2352,203.55,206,0,2352,336,1942.45
+18-06-2024,Flipkart,Mumbai,Lip Balm,Product_594,Brand_A,6,284,10,1,255.6,1533.6,131.83,52,255.6,1278,213,1094.17
+26-10-2025,Blinkit,Chennai,Moisturizer,Product_595,Brand_D,7,785,20,0,628,4396,404.86,224,0,4396,628,3767.14
+15-12-2023,Instamart,Delhi,Face Wash,Product_596,Brand_A,6,398,0,2,398,2388,184.34,292,796,1592,265.33,1115.66
+14-10-2023,Flipkart,Mumbai,Lip Balm,Product_597,Brand_C,1,200,0,0,200,200,90.16,0,0,200,200,109.84
+15-02-2025,Instamart,Pune,Baby Care,Product_598,Brand_A,5,409,0,0,409,2045,237.01,134,0,2045,409,1673.99
+12/10/2024,Amazon,Delhi,Face Wash,Product_599,Brand_A,4,657,20,1,525.6,2102.4,329.87,202,525.6,1576.8,394.2,1044.93
+11/2/2024,Blinkit,Delhi,Lip Balm,Product_600,Brand_A,7,302,15,0,256.7,1796.9,133.96,20,0,1796.9,256.7,1642.94
+1/1/2024,Instamart,Chennai,Shampoo,Product_601,Brand_B,6,191,10,2,171.9,1031.4,98.68,272,343.8,687.6,114.6,316.92
+31-12-2024,Blinkit,Mumbai,Shampoo,Product_602,Brand_D,11,651,5,0,618.45,6802.95,386.24,103,0,6802.95,618.45,6313.71
+9/11/2025,Instamart,Hyderabad,Face Wash,Product_603,Brand_B,3,262,0,1,262,786,141.16,8,262,524,174.67,374.84
+22-01-2024,Blinkit,Hyderabad,Moisturizer,Product_604,Brand_B,3,668,10,0,601.2,1803.6,335.62,179,0,1803.6,601.2,1288.98
+27-11-2023,Amazon,Mumbai,Face Wash,Product_605,Brand_C,8,632,20,1,505.6,4044.8,319.8,116,505.6,3539.2,442.4,3103.4
+28-07-2025,Zepto,Mumbai,Shampoo,Product_606,Brand_C,7,167,0,0,167,1169,104.6,34,0,1169,167,1030.4
+13-06-2025,Instamart,Hyderabad,Face Wash,Product_607,Brand_A,10,367,20,2,293.6,2936,153.39,19,587.2,2348.8,234.88,2176.41
+7/2/2024,Zepto,Hyderabad,Moisturizer,Product_608,Brand_B,3,200,20,2,160,480,76.37,3,320,160,53.33,80.63
+3/5/2025,Amazon,Delhi,Face Wash,Product_609,Brand_C,3,492,5,2,467.4,1402.2,252.49,236,934.8,467.4,155.8,-21.09
+5/2/2025,Blinkit,Pune,Lip Balm,Product_610,Brand_A,4,240,20,0,192,768,101.8,115,0,768,192,551.2
+7/9/2025,Amazon,Delhi,Baby Care,Product_611,Brand_D,4,625,0,1,625,2500,384.52,167,625,1875,468.75,1323.48
+9/9/2024,Blinkit,Chennai,Moisturizer,Product_612,Brand_A,3,704,10,0,633.6,1900.8,315.76,107,0,1900.8,633.6,1478.04
+5/6/2024,Instamart,Pune,Lip Balm,Product_613,Brand_B,5,494,20,0,395.2,1976,219.96,275,0,1976,395.2,1481.04
+24-04-2024,Amazon,Chennai,Shampoo,Product_614,Brand_B,5,378,10,2,340.2,1701,205.39,181,680.4,1020.6,204.12,634.21
+30-09-2024,Instamart,Mumbai,Lip Balm,Product_615,Brand_B,5,383,0,1,383,1915,248.79,173,383,1532,306.4,1110.21
+26-10-2025,Amazon,Hyderabad,Moisturizer,Product_616,Brand_C,11,166,5,2,157.7,1734.7,87.27,216,315.4,1419.3,129.03,1116.03
+7/11/2024,Flipkart,Hyderabad,Lip Balm,Product_617,Brand_A,6,350,20,0,280,1680,148.83,29,0,1680,280,1502.17
+13-08-2024,Instamart,Bengaluru,Moisturizer,Product_618,Brand_C,3,472,15,0,401.2,1203.6,216.23,126,0,1203.6,401.2,861.37
+4/11/2024,Blinkit,Pune,Face Wash,Product_619,Brand_C,8,170,15,1,144.5,1156,80.66,158,144.5,1011.5,126.44,772.84
+3/5/2025,Flipkart,Delhi,Shampoo,Product_620,Brand_B,3,302,5,1,286.9,860.7,176.64,197,286.9,573.8,191.27,200.16
+20-05-2024,Amazon,Mumbai,Baby Care,Product_621,Brand_A,1,797,0,1,797,797,393.55,228,797,0,0,-621.55
+21-06-2025,Blinkit,Pune,Face Wash,Product_622,Brand_A,1,528,20,1,422.4,422.4,272.55,82,422.4,0,0,-354.55
+26-07-2024,Flipkart,Delhi,Lip Balm,Product_623,Brand_A,10,324,25,0,243,2430,150.89,138,0,2430,243,2141.11
+16-12-2025,Instamart,Bengaluru,Lip Balm,Product_624,Brand_B,8,684,15,2,581.4,4651.2,283.44,39,1162.8,3488.4,436.05,3165.96
+11/8/2024,Zepto,Delhi,Moisturizer,Product_625,Brand_A,2,521,0,2,521,1042,239.48,4,1042,0,0,-243.48
+8/12/2023,Instamart,Hyderabad,Face Wash,Product_626,Brand_B,8,165,5,1,156.75,1254,71.38,46,156.75,1097.25,137.16,979.87
+19-04-2025,Blinkit,Pune,Lip Balm,Product_627,Brand_C,1,794,10,0,714.6,714.6,450.17,129,0,714.6,714.6,135.43
+24-02-2025,Amazon,Bengaluru,Moisturizer,Product_628,Brand_B,11,229,25,1,171.75,1889.25,77.39,215,171.75,1717.5,156.14,1425.11
+16-12-2025,Blinkit,Bengaluru,Shampoo,Product_629,Brand_D,4,440,25,2,330,1320,163.58,293,660,660,165,203.42
+13-01-2024,Flipkart,Hyderabad,Baby Care,Product_630,Brand_C,10,684,25,0,513,5130,300.46,146,0,5130,513,4683.54
+12/10/2025,Zepto,Delhi,Lip Balm,Product_631,Brand_A,7,288,20,2,230.4,1612.8,147.93,284,460.8,1152,164.57,720.07
+5/8/2025,Instamart,Bengaluru,Lip Balm,Product_632,Brand_C,5,207,0,2,207,1035,97.3,285,414,621,124.2,238.7
+6/6/2024,Amazon,Delhi,Lip Balm,Product_633,Brand_A,3,636,15,2,540.6,1621.8,296.81,78,1081.2,540.6,180.2,165.79
+27-09-2025,Flipkart,Hyderabad,Moisturizer,Product_634,Brand_C,1,198,20,2,158.4,158.4,93.13,288,316.8,-158.4,-158.4,-539.53
+22-02-2025,Blinkit,Delhi,Face Wash,Product_635,Brand_C,10,579,10,1,521.1,5211,309.12,201,521.1,4689.9,468.99,4179.78
+1/10/2024,Flipkart,Hyderabad,Moisturizer,Product_636,Brand_C,3,593,15,0,504.05,1512.15,264.15,42,0,1512.15,504.05,1206
+20-11-2023,Amazon,Hyderabad,Shampoo,Product_637,Brand_A,6,366,20,0,292.8,1756.8,162.32,92,0,1756.8,292.8,1502.48
+2/9/2025,Instamart,Bengaluru,Moisturizer,Product_638,Brand_B,4,228,10,0,205.2,820.8,128.13,131,0,820.8,205.2,561.67
+5/10/2025,Flipkart,Delhi,Lip Balm,Product_639,Brand_B,9,681,15,1,578.85,5209.65,376.23,283,578.85,4630.8,514.53,3971.57
+10/8/2024,Zepto,Pune,Moisturizer,Product_640,Brand_B,6,502,5,2,476.9,2861.4,261.8,140,953.8,1907.6,317.93,1505.8
+20-08-2024,Blinkit,Hyderabad,Moisturizer,Product_641,Brand_A,6,648,10,1,583.2,3499.2,349.08,68,583.2,2916,486,2498.92
+19-02-2025,Blinkit,Mumbai,Lip Balm,Product_642,Brand_A,6,667,15,1,566.95,3401.7,331.51,61,566.95,2834.75,472.46,2442.24
+7/12/2025,Instamart,Delhi,Shampoo,Product_643,Brand_C,7,494,10,1,444.6,3112.2,248.86,46,444.6,2667.6,381.09,2372.74
+27-05-2024,Blinkit,Hyderabad,Lip Balm,Product_644,Brand_C,1,349,20,0,279.2,279.2,152.61,31,0,279.2,279.2,95.59
+25-05-2025,Instamart,Mumbai,Baby Care,Product_645,Brand_D,4,288,5,1,273.6,1094.4,168.02,82,273.6,820.8,205.2,570.78
+15-12-2023,Blinkit,Chennai,Face Wash,Product_646,Brand_D,1,422,15,2,358.7,358.7,209.2,52,717.4,-358.7,-358.7,-619.9
+25-04-2025,Flipkart,Pune,Moisturizer,Product_647,Brand_A,11,355,20,2,284,3124,172.86,158,568,2556,232.36,2225.14
+22-12-2023,Blinkit,Hyderabad,Lip Balm,Product_648,Brand_A,4,592,15,2,503.2,2012.8,289.04,83,1006.4,1006.4,251.6,634.36
+23-11-2024,Blinkit,Mumbai,Shampoo,Product_649,Brand_C,2,443,15,2,376.55,753.1,173.76,146,753.1,0,0,-319.76
+18-04-2025,Amazon,Bengaluru,Moisturizer,Product_650,Brand_B,2,338,15,0,287.3,574.6,153.15,44,0,574.6,287.3,377.45
+13-05-2025,Zepto,Delhi,Face Wash,Product_651,Brand_B,6,724,0,2,724,4344,384.39,198,1448,2896,482.67,2313.61
+15-11-2023,Flipkart,Bengaluru,Lip Balm,Product_652,Brand_D,2,197,20,2,157.6,315.2,72.05,167,315.2,0,0,-239.05
+11/4/2024,Blinkit,Pune,Shampoo,Product_653,Brand_C,7,617,10,1,555.3,3887.1,326.89,96,555.3,3331.8,475.97,2908.91
+19-10-2024,Zepto,Chennai,Baby Care,Product_654,Brand_C,4,740,10,1,666,2664,405.1,53,666,1998,499.5,1539.9
+24-09-2025,Flipkart,Mumbai,Lip Balm,Product_655,Brand_B,8,179,10,0,161.1,1288.8,90.02,13,0,1288.8,161.1,1185.78
+12/11/2023,Flipkart,Chennai,Baby Care,Product_656,Brand_C,8,182,0,0,182,1456,107.92,162,0,1456,182,1186.08
+29-12-2023,Amazon,Bengaluru,Face Wash,Product_657,Brand_B,9,348,15,2,295.8,2662.2,152.75,295,591.6,2070.6,230.07,1622.85
+4/10/2024,Instamart,Bengaluru,Baby Care,Product_658,Brand_C,1,643,25,2,482.25,482.25,285.95,128,964.5,-482.25,-482.25,-896.2
+14-10-2023,Flipkart,Bengaluru,Moisturizer,Product_659,Brand_A,1,530,15,0,450.5,450.5,249.64,168,0,450.5,450.5,32.86
+30-05-2024,Zepto,Hyderabad,Lip Balm,Product_660,Brand_C,6,402,10,1,361.8,2170.8,165.97,126,361.8,1809,301.5,1517.03
+16-10-2023,Amazon,Bengaluru,Baby Care,Product_661,Brand_C,6,280,0,0,280,1680,166.03,229,0,1680,280,1284.97
+19-09-2024,Amazon,Delhi,Shampoo,Product_662,Brand_D,6,256,5,2,243.2,1459.2,136.27,222,486.4,972.8,162.13,614.53
+12/12/2025,Flipkart,Pune,Lip Balm,Product_663,Brand_C,9,522,25,2,391.5,3523.5,214.88,243,783,2740.5,304.5,2282.62
+7/9/2024,Zepto,Mumbai,Face Wash,Product_664,Brand_C,5,403,10,0,362.7,1813.5,185.98,193,0,1813.5,362.7,1434.52
+10/2/2024,Zepto,Pune,Moisturizer,Product_665,Brand_C,10,347,5,2,329.65,3296.5,209.54,98,659.3,2637.2,263.72,2329.66
+24-12-2024,Flipkart,Chennai,Moisturizer,Product_666,Brand_C,2,361,15,1,306.85,613.7,155.63,293,306.85,306.85,153.43,-141.78
+5/12/2023,Blinkit,Delhi,Face Wash,Product_667,Brand_D,7,709,15,1,602.65,4218.55,335.49,246,602.65,3615.9,516.56,3034.41
+30-11-2025,Zepto,Mumbai,Lip Balm,Product_668,Brand_C,8,217,0,1,217,1736,101.74,210,217,1519,189.88,1207.26
+27-02-2024,Amazon,Chennai,Face Wash,Product_669,Brand_B,1,574,25,2,430.5,430.5,205.98,248,861,-430.5,-430.5,-884.48
+6/7/2025,Instamart,Hyderabad,Face Wash,Product_670,Brand_C,3,724,5,2,687.8,2063.4,338.64,19,1375.6,687.8,229.27,330.16
+4/8/2024,Flipkart,Delhi,Moisturizer,Product_671,Brand_C,7,568,20,2,454.4,3180.8,283.94,298,908.8,2272,324.57,1690.06
+1/9/2024,Flipkart,Delhi,Shampoo,Product_672,Brand_B,6,652,20,1,521.6,3129.6,263.69,254,521.6,2608,434.67,2090.31
+20-02-2025,Amazon,Bengaluru,Lip Balm,Product_673,Brand_A,1,736,10,0,662.4,662.4,417.01,260,0,662.4,662.4,-14.61
+2/7/2025,Flipkart,Bengaluru,Face Wash,Product_674,Brand_A,3,378,15,1,321.3,963.9,176.04,162,321.3,642.6,214.2,304.56
+29-06-2025,Blinkit,Pune,Moisturizer,Product_675,Brand_D,8,578,25,2,433.5,3468,237.47,86,867,2601,325.12,2277.53
+6/12/2025,Instamart,Chennai,Moisturizer,Product_676,Brand_C,7,250,15,0,212.5,1487.5,105.29,148,0,1487.5,212.5,1234.21
+18-05-2025,Flipkart,Chennai,Moisturizer,Product_677,Brand_A,10,268,0,1,268,2680,139.98,57,268,2412,241.2,2215.02
+27-11-2025,Blinkit,Chennai,Lip Balm,Product_678,Brand_C,4,614,20,0,491.2,1964.8,247.09,218,0,1964.8,491.2,1499.71
+11/9/2024,Amazon,Chennai,Face Wash,Product_679,Brand_A,7,503,25,1,377.25,2640.75,222.45,234,377.25,2263.5,323.36,1807.05
+30-10-2023,Amazon,Mumbai,Face Wash,Product_680,Brand_B,9,302,25,2,226.5,2038.5,117.9,84,453,1585.5,176.17,1383.6
+16-11-2025,Blinkit,Hyderabad,Face Wash,Product_681,Brand_A,5,505,0,1,505,2525,322.97,179,505,2020,404,1518.03
+16-10-2023,Zepto,Bengaluru,Shampoo,Product_682,Brand_C,10,589,15,2,500.65,5006.5,229.33,299,1001.3,4005.2,400.52,3476.87
+7/10/2024,Amazon,Chennai,Face Wash,Product_683,Brand_B,10,629,15,0,534.65,5346.5,241.2,226,0,5346.5,534.65,4879.3
+19-07-2025,Blinkit,Delhi,Lip Balm,Product_684,Brand_A,6,489,5,1,464.55,2787.3,257.16,149,464.55,2322.75,387.12,1916.59
+12/11/2023,Blinkit,Chennai,Baby Care,Product_685,Brand_C,9,587,5,1,557.65,5018.85,336.79,47,557.65,4461.2,495.69,4077.41
+30-05-2024,Amazon,Chennai,Face Wash,Product_686,Brand_D,10,424,25,2,318,3180,151.03,137,636,2544,254.4,2255.97
+11/9/2024,Flipkart,Pune,Lip Balm,Product_687,Brand_B,10,437,25,0,327.75,3277.5,185.44,72,0,3277.5,327.75,3020.06
+22-04-2024,Instamart,Pune,Face Wash,Product_688,Brand_D,8,720,25,0,540,4320,337.34,244,0,4320,540,3738.66
+14-12-2025,Flipkart,Hyderabad,Lip Balm,Product_689,Brand_C,5,575,10,0,517.5,2587.5,306.46,87,0,2587.5,517.5,2194.04
+23-04-2024,Amazon,Hyderabad,Moisturizer,Product_690,Brand_C,1,799,15,0,679.15,679.15,432.33,61,0,679.15,679.15,185.82
+8/10/2025,Amazon,Delhi,Moisturizer,Product_691,Brand_C,11,769,0,0,769,8459,412.86,9,0,8459,769,8037.14
+29-01-2024,Flipkart,Pune,Shampoo,Product_692,Brand_C,10,712,15,2,605.2,6052,323.62,198,1210.4,4841.6,484.16,4319.98
+9/6/2024,Flipkart,Pune,Shampoo,Product_693,Brand_A,9,371,20,0,296.8,2671.2,141.29,241,0,2671.2,296.8,2288.91
+19-05-2024,Amazon,Delhi,Shampoo,Product_694,Brand_C,10,736,15,2,625.6,6256,309.17,152,1251.2,5004.8,500.48,4543.63
+16-10-2025,Blinkit,Mumbai,Moisturizer,Product_695,Brand_D,10,767,25,0,575.25,5752.5,359.58,75,0,5752.5,575.25,5317.92
+2/10/2025,Zepto,Bengaluru,Baby Care,Product_696,Brand_B,1,620,25,2,465,465,269.01,252,930,-465,-465,-986.01
+19-07-2025,Instamart,Pune,Baby Care,Product_697,Brand_D,11,518,20,2,414.4,4558.4,250.4,184,828.8,3729.6,339.05,3295.2
+11/3/2024,Blinkit,Mumbai,Lip Balm,Product_698,Brand_B,7,203,10,1,182.7,1278.9,89.3,297,182.7,1096.2,156.6,709.9
+8/6/2024,Flipkart,Mumbai,Moisturizer,Product_699,Brand_B,2,707,5,2,671.65,1343.3,342.23,226,1343.3,0,0,-568.23
+11/8/2025,Instamart,Bengaluru,Shampoo,Product_700,Brand_D,10,753,0,1,753,7530,348.07,86,753,6777,677.7,6342.93
+15-12-2024,Zepto,Mumbai,Face Wash,Product_701,Brand_D,8,208,5,2,197.6,1580.8,108.59,96,395.2,1185.6,148.2,981.01
+24-10-2024,Amazon,Chennai,Face Wash,Product_702,Brand_D,11,363,10,1,326.7,3593.7,158.03,123,326.7,3267,297,2985.97
+14-01-2025,Instamart,Pune,Lip Balm,Product_703,Brand_B,10,616,10,0,554.4,5544,292.04,295,0,5544,554.4,4956.96
+28-11-2024,Instamart,Pune,Moisturizer,Product_704,Brand_D,7,303,25,1,227.25,1590.75,129.29,20,227.25,1363.5,194.79,1214.21
+4/1/2025,Instamart,Pune,Face Wash,Product_705,Brand_A,8,369,0,2,369,2952,233.56,225,738,2214,276.75,1755.44
+7/1/2024,Instamart,Mumbai,Lip Balm,Product_706,Brand_A,6,448,15,1,380.8,2284.8,238.79,149,380.8,1904,317.33,1516.21
+15-12-2025,Instamart,Chennai,Face Wash,Product_707,Brand_B,10,572,25,2,429,4290,248.25,168,858,3432,343.2,3015.75
+19-10-2023,Zepto,Mumbai,Moisturizer,Product_708,Brand_D,5,217,10,0,195.3,976.5,89.03,66,0,976.5,195.3,821.47
+29-08-2025,Flipkart,Pune,Moisturizer,Product_709,Brand_C,10,261,20,2,208.8,2088,126.18,221,417.6,1670.4,167.04,1323.22
+13-07-2024,Blinkit,Pune,Shampoo,Product_710,Brand_B,10,575,20,0,460,4600,253.24,100,0,4600,460,4246.76
+7/8/2025,Instamart,Pune,Shampoo,Product_711,Brand_D,3,359,25,2,269.25,807.75,140.89,32,538.5,269.25,89.75,96.36
+12/2/2025,Flipkart,Delhi,Moisturizer,Product_712,Brand_B,10,607,5,1,576.65,5766.5,364.87,275,576.65,5189.85,518.98,4549.98
+19-09-2025,Zepto,Delhi,Face Wash,Product_713,Brand_C,11,315,5,2,299.25,3291.75,156.04,289,598.5,2693.25,244.84,2248.21
+5/12/2023,Zepto,Pune,Lip Balm,Product_714,Brand_C,4,247,0,1,247,988,151.34,98,247,741,185.25,491.66
+14-12-2025,Zepto,Pune,Face Wash,Product_715,Brand_D,3,188,25,1,141,423,86.1,215,141,282,94,-19.1
+11/3/2025,Blinkit,Delhi,Moisturizer,Product_716,Brand_D,7,320,15,0,272,1904,143.54,281,0,1904,272,1479.46
+24-09-2025,Zepto,Hyderabad,Moisturizer,Product_717,Brand_C,4,219,10,2,197.1,788.4,111.48,293,394.2,394.2,98.55,-10.28
+1/2/2025,Amazon,Mumbai,Lip Balm,Product_718,Brand_A,11,692,10,0,622.8,6850.8,366.94,205,0,6850.8,622.8,6278.86
+18-06-2025,Instamart,Pune,Baby Care,Product_719,Brand_A,10,192,5,0,182.4,1824,94.13,48,0,1824,182.4,1681.87
+19-05-2025,Zepto,Bengaluru,Baby Care,Product_720,Brand_B,11,610,25,2,457.5,5032.5,240.5,281,915,4117.5,374.32,3596
+21-06-2024,Amazon,Mumbai,Shampoo,Product_721,Brand_A,7,780,0,0,780,5460,463.07,125,0,5460,780,4871.93
+21-12-2024,Blinkit,Mumbai,Face Wash,Product_722,Brand_D,7,399,25,2,299.25,2094.75,175.58,0,598.5,1496.25,213.75,1320.67
+19-04-2024,Blinkit,Mumbai,Shampoo,Product_723,Brand_B,3,254,25,2,190.5,571.5,113.75,72,381,190.5,63.5,4.75
+28-10-2025,Amazon,Delhi,Baby Care,Product_724,Brand_C,10,446,5,2,423.7,4237,223.26,17,847.4,3389.6,338.96,3149.34
+31-07-2024,Blinkit,Delhi,Face Wash,Product_725,Brand_C,8,490,5,0,465.5,3724,231.58,53,0,3724,465.5,3439.42
+30-09-2024,Blinkit,Bengaluru,Moisturizer,Product_726,Brand_B,6,605,15,0,514.25,3085.5,273.85,166,0,3085.5,514.25,2645.65
+1/7/2025,Amazon,Mumbai,Shampoo,Product_727,Brand_D,3,559,15,2,475.15,1425.45,306.66,292,950.3,475.15,158.38,-123.51
+21-07-2024,Instamart,Mumbai,Baby Care,Product_728,Brand_A,6,530,10,1,477,2862,268.46,271,477,2385,397.5,1845.54
+31-03-2024,Blinkit,Delhi,Face Wash,Product_729,Brand_C,7,296,15,0,251.6,1761.2,147.9,71,0,1761.2,251.6,1542.3
+7/10/2025,Flipkart,Chennai,Moisturizer,Product_730,Brand_C,10,357,15,2,303.45,3034.5,153.97,54,606.9,2427.6,242.76,2219.63
+1/7/2024,Zepto,Mumbai,Face Wash,Product_731,Brand_D,6,188,0,2,188,1128,114.58,157,376,752,125.33,480.42
+25-12-2024,Blinkit,Pune,Face Wash,Product_732,Brand_A,8,154,20,1,123.2,985.6,77.85,165,123.2,862.4,107.8,619.55
+19-11-2025,Flipkart,Delhi,Lip Balm,Product_733,Brand_A,9,783,5,1,743.85,6694.65,464.57,275,743.85,5950.8,661.2,5211.23
+6/12/2024,Flipkart,Pune,Shampoo,Product_734,Brand_B,11,780,25,2,585,6435,305.48,79,1170,5265,478.64,4880.52
+27-05-2025,Zepto,Mumbai,Face Wash,Product_735,Brand_A,8,264,0,0,264,2112,130.33,268,0,2112,264,1713.67
+5/8/2024,Flipkart,Chennai,Face Wash,Product_736,Brand_C,1,322,0,2,322,322,183.6,19,644,-322,-322,-524.6
+30-06-2024,Flipkart,Mumbai,Lip Balm,Product_737,Brand_B,6,555,15,2,471.75,2830.5,266.72,210,943.5,1887,314.5,1410.28
+28-11-2024,Instamart,Delhi,Baby Care,Product_738,Brand_A,6,230,0,1,230,1380,111.43,212,230,1150,191.67,826.57
+17-03-2025,Instamart,Bengaluru,Lip Balm,Product_739,Brand_D,6,210,20,0,168,1008,76.11,42,0,1008,168,889.89
+18-12-2023,Amazon,Hyderabad,Baby Care,Product_740,Brand_D,3,516,15,2,438.6,1315.8,276.75,70,877.2,438.6,146.2,91.85
+29-03-2025,Blinkit,Hyderabad,Moisturizer,Product_741,Brand_B,5,179,0,1,179,895,109.89,64,179,716,143.2,542.11
+28-06-2024,Blinkit,Mumbai,Moisturizer,Product_742,Brand_D,3,456,15,1,387.6,1162.8,207.84,221,387.6,775.2,258.4,346.36
+30-08-2025,Blinkit,Chennai,Shampoo,Product_743,Brand_C,4,551,15,1,468.35,1873.4,218.48,167,468.35,1405.05,351.26,1019.57
+16-02-2025,Instamart,Delhi,Lip Balm,Product_744,Brand_C,9,352,0,0,352,3168,195.87,99,0,3168,352,2873.13
+30-12-2023,Zepto,Hyderabad,Baby Care,Product_745,Brand_C,9,432,25,2,324,2916,174.19,63,648,2268,252,2030.81
+28-11-2025,Blinkit,Chennai,Face Wash,Product_746,Brand_C,4,282,20,1,225.6,902.4,131.31,282,225.6,676.8,169.2,263.49
+22-11-2024,Zepto,Chennai,Shampoo,Product_747,Brand_C,10,729,15,1,619.65,6196.5,313.13,200,619.65,5576.85,557.69,5063.72
+1/3/2024,Flipkart,Bengaluru,Lip Balm,Product_748,Brand_B,7,175,10,0,157.5,1102.5,81.85,296,0,1102.5,157.5,724.65
+17-12-2023,Amazon,Mumbai,Baby Care,Product_749,Brand_D,7,417,15,1,354.45,2481.15,205.4,8,354.45,2126.7,303.81,1913.3
+24-10-2023,Amazon,Mumbai,Face Wash,Product_750,Brand_C,7,255,20,2,204,1428,121.68,166,408,1020,145.71,732.32
+7/7/2025,Flipkart,Pune,Lip Balm,Product_751,Brand_C,1,534,20,0,427.2,427.2,211.15,266,0,427.2,427.2,-49.95
+4/12/2024,Blinkit,Delhi,Shampoo,Product_752,Brand_D,5,513,0,2,513,2565,271.54,72,1026,1539,307.8,1195.46
+17-12-2025,Flipkart,Chennai,Shampoo,Product_753,Brand_B,3,427,25,2,320.25,960.75,193.57,51,640.5,320.25,106.75,75.68
+14-11-2023,Zepto,Hyderabad,Lip Balm,Product_754,Brand_A,1,589,25,0,441.75,441.75,253.32,278,0,441.75,441.75,-89.57
+14-11-2023,Zepto,Pune,Shampoo,Product_755,Brand_B,9,780,5,2,741,6669,355.68,74,1482,5187,576.33,4757.32
+5/7/2024,Flipkart,Delhi,Lip Balm,Product_756,Brand_A,6,488,5,0,463.6,2781.6,240.05,155,0,2781.6,463.6,2386.55
+16-10-2025,Blinkit,Delhi,Lip Balm,Product_757,Brand_D,11,726,25,1,544.5,5989.5,319.66,62,544.5,5445,495,5063.34
+19-12-2023,Flipkart,Delhi,Moisturizer,Product_758,Brand_A,6,223,15,1,189.55,1137.3,87,152,189.55,947.75,157.96,708.75
+4/5/2024,Blinkit,Hyderabad,Baby Care,Product_759,Brand_A,4,342,10,0,307.8,1231.2,195.81,118,0,1231.2,307.8,917.39
+2/3/2025,Blinkit,Delhi,Moisturizer,Product_760,Brand_D,3,768,10,1,691.2,2073.6,415.04,294,691.2,1382.4,460.8,673.36
+12/2/2024,Blinkit,Pune,Lip Balm,Product_761,Brand_C,11,338,20,0,270.4,2974.4,139.51,1,0,2974.4,270.4,2833.89
+30-08-2024,Instamart,Bengaluru,Moisturizer,Product_762,Brand_C,5,382,0,1,382,1910,178.51,138,382,1528,305.6,1211.49
+7/2/2025,Amazon,Hyderabad,Lip Balm,Product_763,Brand_A,6,525,5,2,498.75,2992.5,307.06,276,997.5,1995,332.5,1411.94
+16-09-2025,Blinkit,Chennai,Face Wash,Product_764,Brand_D,1,336,15,1,285.6,285.6,133.92,39,285.6,0,0,-172.92
+3/1/2024,Blinkit,Hyderabad,Moisturizer,Product_765,Brand_C,2,393,25,1,294.75,589.5,168,79,294.75,294.75,147.38,47.75
+24-02-2024,Zepto,Mumbai,Face Wash,Product_766,Brand_C,7,251,10,2,225.9,1581.3,137.69,137,451.8,1129.5,161.36,854.81
+28-06-2025,Amazon,Mumbai,Moisturizer,Product_767,Brand_A,2,796,0,1,796,1592,366.97,126,796,796,398,303.03
+30-12-2024,Instamart,Chennai,Lip Balm,Product_768,Brand_C,8,242,20,1,193.6,1548.8,119.84,283,193.6,1355.2,169.4,952.36
+22-08-2025,Amazon,Chennai,Baby Care,Product_769,Brand_A,6,194,5,2,184.3,1105.8,83.39,86,368.6,737.2,122.87,567.81
+3/12/2023,Amazon,Mumbai,Shampoo,Product_770,Brand_D,9,405,0,2,405,3645,260.97,225,810,2835,315,2349.03
+4/3/2024,Blinkit,Delhi,Shampoo,Product_771,Brand_A,9,378,10,1,340.2,3061.8,187.38,33,340.2,2721.6,302.4,2501.22
+27-02-2025,Amazon,Hyderabad,Face Wash,Product_772,Brand_A,8,594,20,1,475.2,3801.6,271.23,124,475.2,3326.4,415.8,2931.17
+11/2/2024,Zepto,Hyderabad,Moisturizer,Product_773,Brand_A,4,703,25,1,527.25,2109,328.01,29,527.25,1581.75,395.44,1224.74
+4/10/2025,Amazon,Bengaluru,Face Wash,Product_774,Brand_D,8,639,5,1,607.05,4856.4,392.96,83,607.05,4249.35,531.17,3773.39
+26-01-2025,Flipkart,Delhi,Baby Care,Product_775,Brand_B,7,733,0,2,733,5131,354.28,84,1466,3665,523.57,3226.72
+17-11-2024,Amazon,Mumbai,Moisturizer,Product_776,Brand_A,4,648,20,2,518.4,2073.6,240.52,92,1036.8,1036.8,259.2,704.28
+25-11-2025,Instamart,Delhi,Shampoo,Product_777,Brand_B,5,604,0,1,604,3020,378.26,171,604,2416,483.2,1866.74
+10/12/2024,Blinkit,Pune,Baby Care,Product_778,Brand_B,2,537,25,1,402.75,805.5,201.7,172,402.75,402.75,201.38,29.05
+15-02-2024,Zepto,Delhi,Lip Balm,Product_779,Brand_A,3,304,0,2,304,912,167.08,99,608,304,101.33,37.92
+15-02-2024,Zepto,Bengaluru,Baby Care,Product_780,Brand_A,5,275,20,0,220,1100,134.18,250,0,1100,220,715.82
+5/11/2023,Instamart,Chennai,Moisturizer,Product_781,Brand_C,8,700,0,0,700,5600,429.19,16,0,5600,700,5154.81
+5/11/2024,Instamart,Bengaluru,Moisturizer,Product_782,Brand_B,6,328,0,0,328,1968,183.33,260,0,1968,328,1524.67
+2/11/2025,Instamart,Chennai,Shampoo,Product_783,Brand_B,9,544,15,2,462.4,4161.6,299.89,151,924.8,3236.8,359.64,2785.91
+26-05-2024,Flipkart,Chennai,Face Wash,Product_784,Brand_D,5,475,25,2,356.25,1781.25,227.54,200,712.5,1068.75,213.75,641.21
+29-04-2025,Instamart,Mumbai,Baby Care,Product_785,Brand_B,6,247,15,1,209.95,1259.7,103.8,139,209.95,1049.75,174.96,806.95
+30-09-2024,Flipkart,Pune,Lip Balm,Product_786,Brand_D,10,217,5,2,206.15,2061.5,129.59,96,412.3,1649.2,164.92,1423.61
+28-01-2025,Instamart,Chennai,Baby Care,Product_787,Brand_C,4,505,0,2,505,2020,282.81,155,1010,1010,252.5,572.19
+2/9/2025,Flipkart,Hyderabad,Shampoo,Product_788,Brand_A,1,775,25,0,581.25,581.25,282.55,72,0,581.25,581.25,226.7
+30-10-2023,Zepto,Pune,Face Wash,Product_789,Brand_B,11,708,0,1,708,7788,375.44,284,708,7080,643.64,6420.56
+12/12/2024,Zepto,Delhi,Face Wash,Product_790,Brand_A,4,502,10,0,451.8,1807.2,234.64,30,0,1807.2,451.8,1542.56
+5/2/2025,Amazon,Pune,Baby Care,Product_791,Brand_D,6,465,25,1,348.75,2092.5,217.09,209,348.75,1743.75,290.62,1317.66
+23-10-2024,Amazon,Hyderabad,Baby Care,Product_792,Brand_B,4,418,20,0,334.4,1337.6,209.96,153,0,1337.6,334.4,974.64
+2/7/2025,Blinkit,Chennai,Face Wash,Product_793,Brand_B,2,367,10,1,330.3,660.6,164.53,147,330.3,330.3,165.15,18.77
+8/8/2024,Blinkit,Bengaluru,Shampoo,Product_794,Brand_C,11,572,5,1,543.4,5977.4,284.2,260,543.4,5434,494,4889.8
+29-12-2024,Instamart,Bengaluru,Baby Care,Product_795,Brand_A,2,658,0,2,658,1316,299.75,77,1316,0,0,-376.75
+3/8/2025,Flipkart,Bengaluru,Shampoo,Product_796,Brand_A,3,786,20,1,628.8,1886.4,286.8,181,628.8,1257.6,419.2,789.8
+8/12/2025,Zepto,Delhi,Moisturizer,Product_797,Brand_A,1,197,5,2,187.15,187.15,95.66,123,374.3,-187.15,-187.15,-405.81
+5/10/2025,Flipkart,Chennai,Moisturizer,Product_798,Brand_B,11,156,15,1,132.6,1458.6,62.85,25,132.6,1326,120.55,1238.15
+28-12-2024,Zepto,Mumbai,Lip Balm,Product_799,Brand_B,9,611,5,1,580.45,5224.05,362.02,41,580.45,4643.6,515.96,4240.58
